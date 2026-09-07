@@ -1,0 +1,2001 @@
+order_id,order_date,region,category,customer_segment,is_returning_customer,quantity,unit_price,revenue,is_returned
+783,2025-01-01,West,Electronics,Mid-Market,True,6,479.46,2876.76,False
+493,2025-01-01,South,Furniture,Mid-Market,False,1,162.15,162.15,False
+517,2025-01-01,North,Toys,SMB,False,5,356.28,1781.4,False
+1483,2025-01-01,North,Office Supplies,SMB,False,4,345.62,1382.48,False
+756,2025-01-01,East,Electronics,SMB,True,4,72.4,289.6,False
+333,2025-01-01,North,Apparel,Enterprise,True,7,184.18,1289.26,False
+1498,2025-01-01,South,Electronics,SMB,True,1,167.58,167.58,True
+1538,2025-01-01,South,Furniture,Enterprise,False,6,220.76,1324.56,False
+577,2025-01-01,East,Apparel,Enterprise,True,2,128.7,257.4,False
+646,2025-01-01,North,Office Supplies,Enterprise,False,5,235.66,1178.3,False
+872,2025-01-01,East,Office Supplies,SMB,False,2,413.49,826.98,False
+1367,2025-01-02,West,Apparel,SMB,False,3,414.94,1244.82,True
+964,2025-01-02,West,Furniture,Mid-Market,True,1,432.35,432.35,False
+1606,2025-01-02,North,Furniture,Enterprise,False,3,287.16,861.48,False
+46,2025-01-02,North,Apparel,Mid-Market,False,5,160.23,801.15,True
+157,2025-01-02,North,Office Supplies,SMB,False,6,249.47,1496.82,False
+1457,2025-01-02,South,Toys,SMB,True,1,243.4,243.4,False
+200,2025-01-02,South,Electronics,Enterprise,False,5,414.92,2074.6,False
+1181,2025-01-03,South,Apparel,SMB,False,5,102.49,512.45,False
+1722,2025-01-03,East,Office Supplies,Mid-Market,False,9,435.39,3918.51,False
+682,2025-01-03,North,Furniture,Mid-Market,False,1,409.64,409.64,False
+1137,2025-01-03,North,Electronics,Enterprise,False,2,413.75,827.5,True
+1397,2025-01-03,South,Electronics,SMB,True,2,51.78,103.56,False
+1577,2025-01-03,South,Toys,SMB,True,8,82.94,663.52,False
+1986,2025-01-03,North,Furniture,Mid-Market,True,5,326.84,1634.2,True
+1112,2025-01-04,South,Apparel,SMB,False,6,133.48,800.88,False
+1428,2025-01-04,West,Electronics,Mid-Market,False,4,442.75,1771.0,False
+725,2025-01-04,South,Toys,SMB,False,6,221.23,1327.38,False
+994,2025-01-04,East,Toys,SMB,False,8,75.36,602.88,False
+373,2025-01-04,South,Apparel,SMB,True,2,397.68,795.36,False
+246,2025-01-04,North,Electronics,SMB,False,7,482.92,3380.44,False
+1290,2025-01-04,East,Furniture,Mid-Market,False,1,445.72,445.72,False
+739,2025-01-04,East,Electronics,SMB,False,4,19.36,77.44,False
+1526,2025-01-05,West,Toys,Enterprise,True,2,107.22,214.44,False
+1802,2025-01-05,South,Toys,SMB,False,2,286.85,573.7,False
+97,2025-01-05,East,Electronics,SMB,False,6,224.59,1347.54,False
+827,2025-01-05,East,Office Supplies,SMB,False,3,334.36,1003.08,False
+470,2025-01-05,South,Furniture,SMB,True,4,90.51,362.04,False
+551,2025-01-05,East,Office Supplies,SMB,False,2,152.38,304.76,False
+312,2025-01-05,North,Apparel,Enterprise,False,7,70.19,491.33,False
+1166,2025-01-05,East,Electronics,Enterprise,False,6,10.64,63.84,False
+1693,2025-01-05,East,Toys,Enterprise,False,6,344.02,2064.12,True
+790,2025-01-05,East,Apparel,SMB,False,3,106.43,319.29,False
+1729,2025-01-05,South,Electronics,Mid-Market,False,7,153.7,1075.9,False
+642,2025-01-05,West,Furniture,Mid-Market,True,6,227.59,1365.54,False
+736,2025-01-06,South,Toys,SMB,False,7,484.22,3389.54,False
+717,2025-01-06,North,Apparel,Mid-Market,False,1,216.86,216.86,False
+255,2025-01-06,North,Apparel,Enterprise,False,6,184.08,1104.48,False
+565,2025-01-06,West,Apparel,SMB,True,3,410.06,1230.18,False
+1282,2025-01-07,East,Apparel,Mid-Market,True,6,173.21,1039.26,False
+954,2025-01-07,North,Apparel,SMB,True,8,487.96,3903.68,False
+1093,2025-01-07,West,Toys,Mid-Market,False,4,473.23,1892.92,False
+1765,2025-01-07,East,Furniture,SMB,True,1,167.5,167.5,False
+1393,2025-01-07,South,Furniture,Enterprise,False,7,87.6,613.2,False
+1234,2025-01-07,North,Electronics,Enterprise,True,7,234.34,1640.38,False
+1833,2025-01-07,North,Toys,SMB,False,8,442.5,3540.0,False
+681,2025-01-07,South,Furniture,SMB,False,3,374.26,1122.78,False
+463,2025-01-07,South,Electronics,SMB,False,7,284.92,1994.44,False
+1522,2025-01-08,East,Furniture,SMB,False,3,310.39,931.17,False
+1452,2025-01-08,South,Office Supplies,Enterprise,True,5,378.51,1892.55,False
+1916,2025-01-08,South,Toys,Enterprise,True,3,273.13,819.39,False
+1321,2025-01-08,South,Electronics,SMB,True,2,278.34,556.68,False
+632,2025-01-08,North,Furniture,Enterprise,False,9,12.98,116.82,False
+666,2025-01-08,East,Electronics,SMB,False,7,66.25,463.75,False
+525,2025-01-08,West,Electronics,SMB,False,4,435.79,1743.16,False
+1899,2025-01-08,North,Toys,SMB,True,9,339.66,3056.94,False
+935,2025-01-08,West,Apparel,SMB,True,7,413.32,2893.24,False
+71,2025-01-09,East,Electronics,Mid-Market,False,3,431.69,1295.07,False
+988,2025-01-09,West,Toys,SMB,True,8,269.5,2156.0,False
+1197,2025-01-09,East,Toys,Enterprise,True,4,414.87,1659.48,False
+459,2025-01-09,East,Electronics,Enterprise,False,8,135.38,1083.04,False
+1172,2025-01-09,West,Toys,SMB,True,6,468.49,2810.94,False
+1337,2025-01-09,South,Apparel,SMB,False,3,345.35,1036.05,False
+1628,2025-01-09,West,Electronics,SMB,True,4,316.05,1264.2,False
+1382,2025-01-09,North,Apparel,Enterprise,False,8,285.77,2286.16,False
+205,2025-01-09,North,Toys,Enterprise,True,8,327.58,2620.64,False
+1886,2025-01-10,North,Furniture,SMB,True,8,342.18,2737.44,False
+1630,2025-01-10,East,Apparel,Enterprise,False,4,155.09,620.36,False
+826,2025-01-10,East,Furniture,SMB,False,2,364.75,729.5,False
+1942,2025-01-10,East,Furniture,Enterprise,False,4,189.03,756.12,False
+764,2025-01-10,East,Toys,Enterprise,True,8,438.35,3506.8,False
+1472,2025-01-10,South,Electronics,SMB,False,1,94.5,94.5,False
+548,2025-01-10,North,Electronics,SMB,True,5,339.85,1699.25,False
+364,2025-01-10,South,Toys,SMB,True,4,187.49,749.96,True
+1030,2025-01-11,South,Toys,Mid-Market,False,9,326.75,2940.75,False
+1148,2025-01-11,South,Electronics,SMB,False,9,11.82,106.38,True
+847,2025-01-11,West,Toys,Mid-Market,False,6,176.55,1059.3,False
+966,2025-01-11,West,Toys,SMB,True,6,72.59,435.54,False
+1941,2025-01-11,West,Toys,SMB,True,6,159.8,958.8,False
+1661,2025-01-11,West,Toys,SMB,True,3,291.37,874.11,True
+1349,2025-01-11,South,Electronics,Mid-Market,True,1,402.81,402.81,False
+1507,2025-01-12,East,Furniture,SMB,False,7,338.22,2367.54,False
+1583,2025-01-12,North,Toys,SMB,True,2,316.42,632.84,False
+1070,2025-01-12,West,Toys,SMB,True,4,448.05,1792.2,False
+1403,2025-01-12,North,Toys,Enterprise,True,3,39.95,119.85,False
+1401,2025-01-12,North,Furniture,SMB,False,7,44.07,308.49,True
+521,2025-01-12,East,Office Supplies,Enterprise,False,2,401.26,802.52,False
+649,2025-01-12,East,Office Supplies,Enterprise,False,7,410.76,2875.32,False
+1313,2025-01-12,North,Furniture,Enterprise,True,1,339.63,339.63,False
+1065,2025-01-12,North,Furniture,SMB,False,8,236.38,1891.04,False
+389,2025-01-12,South,Electronics,SMB,False,4,419.63,1678.52,False
+1270,2025-01-12,East,Office Supplies,SMB,True,5,446.39,2231.95,False
+1248,2025-01-12,South,Toys,SMB,False,4,412.45,1649.8,False
+1754,2025-01-12,East,Electronics,Enterprise,True,3,105.02,315.06,False
+1719,2025-01-12,South,Apparel,SMB,False,8,442.86,3542.88,True
+1788,2025-01-12,North,Furniture,Mid-Market,True,4,365.91,1463.64,False
+1250,2025-01-13,North,Furniture,Enterprise,False,6,361.81,2170.86,False
+286,2025-01-13,North,Toys,Mid-Market,False,3,182.89,548.67,False
+420,2025-01-13,North,Office Supplies,Mid-Market,False,5,23.96,119.8,False
+116,2025-01-13,East,Electronics,SMB,True,6,52.85,317.1,False
+699,2025-01-13,East,Apparel,SMB,True,7,76.71,536.97,False
+1849,2025-01-13,North,Furniture,SMB,True,9,35.52,319.68,False
+768,2025-01-13,North,Electronics,SMB,False,1,455.88,455.88,True
+1460,2025-01-14,South,Toys,SMB,True,5,209.29,1046.45,True
+987,2025-01-14,East,Apparel,Mid-Market,False,8,313.38,2507.04,False
+799,2025-01-14,East,Electronics,Mid-Market,True,7,123.6,865.2,False
+515,2025-01-14,East,Office Supplies,SMB,True,4,229.28,917.12,False
+674,2025-01-14,North,Furniture,Enterprise,False,9,60.18,541.62,False
+679,2025-01-14,North,Office Supplies,Mid-Market,False,2,300.87,601.74,False
+1400,2025-01-14,East,Electronics,Enterprise,False,1,295.65,295.65,False
+1456,2025-01-14,East,Office Supplies,SMB,False,1,373.96,373.96,False
+1836,2025-01-14,West,Office Supplies,Enterprise,False,9,185.54,1669.86,False
+1101,2025-01-14,South,Apparel,Mid-Market,True,7,455.15,3186.05,False
+36,2025-01-14,North,Electronics,SMB,False,2,36.17,72.34,False
+1766,2025-01-14,South,Electronics,SMB,True,7,384.14,2688.98,False
+69,2025-01-15,North,Furniture,Enterprise,False,6,323.57,1941.42,False
+1310,2025-01-15,North,Apparel,Enterprise,False,8,380.4,3043.2,False
+101,2025-01-15,West,Office Supplies,Enterprise,False,5,100.78,503.9,False
+834,2025-01-15,West,Electronics,Enterprise,True,9,108.74,978.66,False
+816,2025-01-15,East,Toys,SMB,False,8,340.37,2722.96,False
+1111,2025-01-15,East,Toys,SMB,False,9,221.53,1993.77,False
+687,2025-01-15,West,Toys,SMB,False,4,263.77,1055.08,False
+1330,2025-01-15,East,Furniture,Enterprise,True,1,88.57,88.57,False
+1087,2025-01-16,West,Electronics,SMB,True,4,210.32,841.28,False
+374,2025-01-16,North,Office Supplies,Enterprise,False,9,304.91,2744.19,False
+1115,2025-01-16,North,Apparel,Enterprise,True,3,253.72,761.16,False
+885,2025-01-17,West,Electronics,SMB,False,2,419.51,839.02,False
+1269,2025-01-17,North,Furniture,Enterprise,False,1,320.32,320.32,False
+1905,2025-01-17,West,Office Supplies,Mid-Market,False,2,60.06,120.12,False
+1878,2025-01-17,West,Office Supplies,Enterprise,True,2,203.18,406.36,False
+1255,2025-01-17,North,Electronics,Enterprise,False,4,469.13,1876.52,False
+1006,2025-01-17,South,Furniture,Mid-Market,True,8,168.11,1344.88,False
+1052,2025-01-17,East,Office Supplies,Enterprise,False,8,160.82,1286.56,False
+250,2025-01-17,South,Toys,Enterprise,False,8,351.53,2812.24,False
+1068,2025-01-17,North,Toys,SMB,False,4,235.61,942.44,False
+917,2025-01-18,South,Furniture,Mid-Market,False,7,10.67,74.69,False
+1960,2025-01-18,South,Furniture,SMB,False,2,51.89,103.78,False
+1448,2025-01-18,South,Toys,Mid-Market,True,3,201.18,603.54,False
+269,2025-01-18,South,Furniture,Mid-Market,False,2,468.54,937.08,True
+1642,2025-01-19,North,Office Supplies,SMB,False,2,211.63,423.26,False
+1675,2025-01-19,East,Apparel,SMB,True,3,310.49,931.47,False
+427,2025-01-19,North,Office Supplies,Enterprise,True,6,66.77,400.62,False
+916,2025-01-19,East,Apparel,SMB,True,6,194.68,1168.08,True
+1989,2025-01-19,North,Office Supplies,SMB,False,3,369.73,1109.19,True
+483,2025-01-19,West,Electronics,Enterprise,True,1,352.45,352.45,False
+1561,2025-01-19,West,Office Supplies,Enterprise,False,7,309.63,2167.41,False
+289,2025-01-20,North,Toys,Enterprise,False,4,374.36,1497.44,False
+970,2025-01-20,East,Apparel,Enterprise,False,4,172.17,688.68,False
+1174,2025-01-20,South,Apparel,SMB,False,9,139.89,1259.01,False
+512,2025-01-20,South,Apparel,Mid-Market,False,8,410.12,3280.96,True
+1497,2025-01-20,North,Furniture,Enterprise,True,5,56.44,282.2,False
+1430,2025-01-20,South,Furniture,Enterprise,True,9,119.16,1072.44,False
+752,2025-01-20,East,Apparel,SMB,True,2,343.19,686.38,False
+1794,2025-01-20,East,Toys,SMB,False,8,111.77,894.16,False
+1304,2025-01-21,North,Apparel,SMB,True,2,495.94,991.88,True
+6,2025-01-21,East,Furniture,SMB,False,7,289.42,2025.94,False
+1450,2025-01-21,North,Furniture,SMB,False,7,369.13,2583.91,False
+1873,2025-01-21,West,Toys,Enterprise,False,9,456.6,4109.4,False
+33,2025-01-21,North,Office Supplies,SMB,False,6,447.37,2684.22,False
+1588,2025-01-21,South,Furniture,SMB,False,2,480.26,960.52,False
+18,2025-01-22,North,Office Supplies,SMB,False,6,321.9,1931.4,False
+1272,2025-01-22,South,Toys,Enterprise,False,3,237.61,712.83,False
+1396,2025-01-22,South,Toys,SMB,False,4,345.19,1380.76,False
+235,2025-01-22,South,Furniture,Enterprise,False,2,445.7,891.4,False
+1974,2025-01-22,South,Office Supplies,Enterprise,False,6,12.88,77.28,False
+645,2025-01-22,North,Electronics,SMB,True,1,127.99,127.99,False
+1299,2025-01-22,North,Toys,SMB,False,4,19.62,78.48,False
+1990,2025-01-23,South,Furniture,SMB,True,6,469.58,2817.48,False
+852,2025-01-23,East,Toys,SMB,False,7,24.2,169.4,False
+362,2025-01-23,South,Electronics,SMB,False,9,417.21,3754.89,False
+1240,2025-01-23,East,Electronics,Mid-Market,False,2,168.48,336.96,False
+802,2025-01-23,East,Apparel,SMB,False,6,266.36,1598.16,False
+569,2025-01-23,West,Toys,SMB,True,9,289.52,2605.68,True
+1427,2025-01-24,South,Toys,SMB,True,1,83.82,83.82,False
+1328,2025-01-24,South,Electronics,Enterprise,False,1,290.2,290.2,False
+701,2025-01-25,South,Apparel,Enterprise,True,6,345.1,2070.6,False
+1058,2025-01-25,East,Electronics,SMB,False,3,217.21,651.63,False
+1774,2025-01-25,East,Office Supplies,Enterprise,False,9,319.38,2874.42,False
+881,2025-01-25,South,Office Supplies,SMB,True,9,319.51,2875.59,False
+891,2025-01-25,West,Furniture,SMB,False,2,297.81,595.62,False
+1781,2025-01-25,East,Office Supplies,SMB,True,6,137.54,825.24,False
+1079,2025-01-25,East,Furniture,SMB,False,3,330.77,992.31,False
+1404,2025-01-25,North,Electronics,Mid-Market,True,7,471.52,3300.64,False
+439,2025-01-25,West,Electronics,SMB,False,8,228.99,1831.92,False
+1199,2025-01-25,North,Electronics,Mid-Market,False,2,215.68,431.36,False
+1784,2025-01-25,South,Electronics,Enterprise,False,2,168.39,336.78,False
+697,2025-01-25,South,Electronics,SMB,True,2,58.21,116.42,True
+746,2025-01-26,North,Apparel,Enterprise,False,7,484.03,3388.21,False
+285,2025-01-26,East,Office Supplies,SMB,False,9,119.94,1079.46,False
+1084,2025-01-26,South,Furniture,Mid-Market,True,5,97.33,486.65,False
+1534,2025-01-26,West,Furniture,Enterprise,False,9,18.98,170.82,False
+1627,2025-01-26,East,Electronics,Mid-Market,False,7,454.56,3181.92,False
+664,2025-01-26,South,Apparel,Enterprise,True,6,311.73,1870.38,False
+1288,2025-01-26,East,Toys,Enterprise,False,2,426.21,852.42,False
+242,2025-01-27,West,Toys,SMB,False,3,484.4,1453.2,False
+1012,2025-01-27,West,Toys,SMB,False,1,128.62,128.62,False
+1694,2025-01-27,East,Apparel,Mid-Market,False,7,111.23,778.61,False
+1300,2025-01-27,East,Apparel,SMB,True,9,369.44,3324.96,False
+1597,2025-01-27,North,Toys,SMB,False,6,85.39,512.34,False
+1316,2025-01-27,South,Office Supplies,Enterprise,False,6,450.94,2705.64,False
+1323,2025-01-27,North,Furniture,SMB,False,9,162.35,1461.15,False
+690,2025-01-28,North,Apparel,Enterprise,True,1,458.79,458.79,False
+126,2025-01-28,East,Furniture,Mid-Market,False,8,103.47,827.76,False
+1912,2025-01-28,East,Electronics,SMB,False,6,381.63,2289.78,False
+81,2025-01-28,West,Toys,SMB,True,2,138.35,276.7,False
+1466,2025-01-28,East,Furniture,SMB,False,9,391.46,3523.14,False
+532,2025-01-28,West,Furniture,Enterprise,False,3,487.89,1463.67,False
+675,2025-01-28,South,Toys,SMB,False,8,371.28,2970.24,False
+114,2025-01-29,North,Electronics,SMB,False,2,378.71,757.42,False
+1127,2025-01-29,South,Office Supplies,SMB,True,7,433.56,3034.92,False
+471,2025-01-29,West,Apparel,SMB,False,9,379.1,3411.9,False
+1027,2025-01-29,South,Electronics,SMB,False,1,409.62,409.62,False
+996,2025-01-29,East,Furniture,SMB,False,9,260.25,2342.25,False
+1977,2025-01-29,West,Office Supplies,SMB,False,8,289.48,2315.84,False
+1192,2025-01-29,East,Electronics,Mid-Market,True,9,260.39,2343.51,False
+1283,2025-01-29,North,Office Supplies,SMB,False,4,286.95,1147.8,False
+1884,2025-01-29,South,Electronics,Enterprise,False,5,138.98,694.9,False
+865,2025-01-29,East,Office Supplies,SMB,False,4,125.87,503.48,False
+609,2025-01-30,South,Furniture,SMB,True,2,143.78,287.56,False
+1991,2025-01-30,East,Office Supplies,Enterprise,True,3,269.33,807.99,False
+1724,2025-01-30,South,Office Supplies,SMB,True,7,320.14,2240.98,False
+1239,2025-01-31,East,Furniture,Mid-Market,False,1,295.07,295.07,False
+731,2025-01-31,East,Electronics,Enterprise,False,9,84.17,757.53,False
+1793,2025-01-31,North,Electronics,Enterprise,False,2,189.86,379.72,False
+913,2025-02-01,West,Furniture,SMB,True,1,130.8,130.8,False
+1348,2025-02-01,North,Office Supplies,Enterprise,False,8,389.9,3119.2,False
+1954,2025-02-01,East,Office Supplies,SMB,False,6,255.42,1532.52,False
+1284,2025-02-02,South,Electronics,SMB,True,4,207.8,831.2,False
+233,2025-02-02,North,Apparel,SMB,True,3,44.79,134.37,True
+381,2025-02-02,East,Apparel,SMB,False,7,147.97,1035.79,False
+85,2025-02-02,East,Electronics,Enterprise,False,1,256.42,256.42,False
+1119,2025-02-03,West,Electronics,SMB,False,6,384.85,2309.1,False
+1005,2025-02-03,East,Apparel,SMB,False,7,349.91,2449.37,False
+1863,2025-02-03,South,Toys,Enterprise,True,5,53.01,265.05,False
+582,2025-02-03,East,Toys,Mid-Market,False,7,236.29,1654.03,False
+710,2025-02-03,South,Office Supplies,Enterprise,False,1,32.28,32.28,False
+619,2025-02-03,North,Office Supplies,Mid-Market,False,1,353.73,353.73,False
+651,2025-02-03,North,Apparel,Enterprise,False,2,334.9,669.8,False
+543,2025-02-04,South,Toys,SMB,False,5,369.06,1845.3,True
+393,2025-02-04,West,Toys,SMB,False,1,443.91,443.91,False
+42,2025-02-04,East,Apparel,Mid-Market,False,6,242.8,1456.8,True
+782,2025-02-04,East,Apparel,SMB,True,8,24.78,198.24,False
+1422,2025-02-04,South,Office Supplies,SMB,True,4,283.7,1134.8,False
+92,2025-02-04,South,Furniture,Mid-Market,True,1,259.91,259.91,False
+1500,2025-02-04,West,Toys,SMB,False,7,64.25,449.75,False
+247,2025-02-04,North,Toys,Enterprise,False,5,249.96,1249.8,False
+411,2025-02-05,West,Furniture,SMB,True,1,273.86,273.86,False
+287,2025-02-05,East,Toys,Enterprise,False,8,326.21,2609.68,False
+734,2025-02-05,West,Apparel,Enterprise,True,8,206.74,1653.92,False
+1713,2025-02-05,North,Toys,Mid-Market,True,9,98.51,886.59,True
+1617,2025-02-05,North,Furniture,Enterprise,False,1,367.66,367.66,False
+1043,2025-02-05,South,Furniture,Mid-Market,False,8,445.73,3565.84,False
+115,2025-02-05,North,Toys,Mid-Market,True,8,469.17,3753.36,False
+1682,2025-02-05,East,Electronics,SMB,True,1,397.65,397.65,False
+961,2025-02-05,South,Furniture,SMB,False,7,139.74,978.18,True
+258,2025-02-06,West,Furniture,SMB,True,6,249.34,1496.04,False
+417,2025-02-06,North,Office Supplies,SMB,False,7,350.94,2456.58,False
+1417,2025-02-06,South,Electronics,SMB,False,9,432.53,3892.77,False
+1264,2025-02-06,West,Toys,Mid-Market,False,9,186.6,1679.4,False
+203,2025-02-06,North,Electronics,Mid-Market,False,3,265.97,797.91,False
+1207,2025-02-06,East,Electronics,Enterprise,False,8,52.06,416.48,False
+775,2025-02-07,East,Electronics,Mid-Market,True,3,259.97,779.91,False
+238,2025-02-07,North,Office Supplies,SMB,True,3,291.06,873.18,False
+849,2025-02-07,South,Furniture,Mid-Market,True,4,34.4,137.6,False
+759,2025-02-07,South,Toys,Enterprise,True,7,397.87,2785.09,False
+1203,2025-02-07,South,Furniture,SMB,False,5,288.09,1440.45,False
+1737,2025-02-07,South,Furniture,Enterprise,False,3,450.89,1352.67,False
+821,2025-02-07,South,Apparel,SMB,True,5,43.45,217.25,False
+1918,2025-02-07,North,Furniture,SMB,True,8,38.67,309.36,False
+810,2025-02-08,East,Electronics,Mid-Market,False,9,291.71,2625.39,False
+358,2025-02-08,East,Electronics,Mid-Market,False,5,72.97,364.85,False
+1110,2025-02-08,East,Apparel,SMB,False,9,393.81,3544.29,False
+1292,2025-02-08,West,Furniture,SMB,False,2,312.2,624.4,False
+1126,2025-02-08,North,Electronics,Mid-Market,False,8,435.57,3484.56,False
+484,2025-02-08,North,Toys,SMB,True,6,453.04,2718.24,False
+1515,2025-02-08,West,Office Supplies,SMB,False,9,145.54,1309.86,True
+585,2025-02-08,East,Furniture,SMB,True,5,372.45,1862.25,False
+282,2025-02-08,North,Office Supplies,Mid-Market,False,2,68.51,137.02,False
+444,2025-02-08,West,Apparel,SMB,False,3,443.71,1331.13,False
+1957,2025-02-08,North,Office Supplies,Enterprise,True,6,117.68,706.08,True
+1243,2025-02-08,West,Toys,SMB,False,3,56.04,168.12,False
+1613,2025-02-08,West,Office Supplies,SMB,True,2,392.75,785.5,False
+1059,2025-02-08,East,Office Supplies,Mid-Market,False,1,338.05,338.05,False
+692,2025-02-08,South,Apparel,Enterprise,False,4,102.07,408.28,True
+190,2025-02-08,West,Toys,Enterprise,True,7,58.45,409.15,False
+1216,2025-02-09,West,Electronics,SMB,False,9,301.44,2712.96,False
+1211,2025-02-09,South,Furniture,Enterprise,True,5,464.03,2320.15,False
+1198,2025-02-09,South,Furniture,Enterprise,False,5,30.84,154.2,True
+1821,2025-02-09,West,Furniture,SMB,True,3,269.49,808.47,False
+989,2025-02-09,West,Electronics,Enterprise,True,2,383.52,767.04,False
+1217,2025-02-09,West,Electronics,SMB,False,7,180.86,1266.02,False
+732,2025-02-09,West,Electronics,Mid-Market,False,7,60.61,424.27,False
+1449,2025-02-09,North,Office Supplies,SMB,False,6,149.23,895.38,False
+1004,2025-02-10,East,Electronics,Enterprise,True,4,13.83,55.32,True
+1356,2025-02-10,East,Office Supplies,SMB,False,9,269.86,2428.74,False
+67,2025-02-10,East,Furniture,SMB,False,7,335.52,2348.64,False
+80,2025-02-10,East,Toys,SMB,False,5,414.94,2074.7,False
+534,2025-02-10,South,Toys,Mid-Market,True,1,358.97,358.97,False
+1458,2025-02-10,South,Furniture,SMB,False,5,34.49,172.45,False
+1386,2025-02-10,East,Toys,SMB,False,6,95.23,571.38,False
+715,2025-02-11,North,Toys,Mid-Market,False,2,398.61,797.22,False
+102,2025-02-11,East,Office Supplies,SMB,False,6,482.53,2895.18,False
+1679,2025-02-11,South,Office Supplies,Enterprise,True,4,169.25,677.0,False
+1757,2025-02-11,East,Toys,SMB,True,2,411.56,823.12,False
+815,2025-02-11,West,Electronics,SMB,False,2,25.58,51.16,False
+1003,2025-02-11,North,Toys,Enterprise,True,6,193.63,1161.78,False
+447,2025-02-11,North,Apparel,SMB,True,2,67.56,135.12,False
+1670,2025-02-11,North,Electronics,Enterprise,False,9,343.82,3094.38,False
+1874,2025-02-11,North,Electronics,SMB,False,1,255.77,255.77,False
+1057,2025-02-11,North,Apparel,SMB,False,8,170.7,1365.6,False
+796,2025-02-11,North,Office Supplies,SMB,True,8,368.03,2944.24,False
+1872,2025-02-11,West,Electronics,Mid-Market,True,6,349.24,2095.44,False
+1587,2025-02-12,South,Office Supplies,Mid-Market,True,2,347.17,694.34,False
+625,2025-02-12,North,Toys,Enterprise,False,3,128.12,384.36,False
+1797,2025-02-12,East,Toys,Mid-Market,False,1,418.87,418.87,False
+1902,2025-02-12,North,Office Supplies,SMB,False,2,157.19,314.38,False
+387,2025-02-12,North,Toys,SMB,True,6,350.25,2101.5,False
+499,2025-02-13,North,Office Supplies,SMB,False,1,444.54,444.54,False
+1067,2025-02-13,West,Electronics,SMB,True,7,205.7,1439.9,True
+388,2025-02-13,North,Office Supplies,Enterprise,False,3,386.36,1159.08,False
+52,2025-02-13,East,Electronics,Enterprise,False,7,29.06,203.42,False
+1491,2025-02-13,East,Office Supplies,SMB,True,5,24.6,123.0,False
+1982,2025-02-13,North,Electronics,Mid-Market,False,1,81.38,81.38,False
+128,2025-02-13,South,Office Supplies,SMB,False,2,356.93,713.86,False
+123,2025-02-14,West,Toys,Enterprise,False,9,222.77,2004.93,False
+1228,2025-02-14,West,Furniture,SMB,False,9,38.14,343.26,False
+1237,2025-02-14,South,Electronics,SMB,False,7,258.32,1808.24,False
+1329,2025-02-15,South,Apparel,Enterprise,False,2,56.93,113.86,False
+254,2025-02-15,West,Furniture,Enterprise,False,2,441.04,882.08,False
+542,2025-02-15,South,Apparel,Mid-Market,False,2,338.4,676.8,True
+650,2025-02-15,North,Electronics,Mid-Market,False,5,349.02,1745.1,False
+1251,2025-02-15,West,Electronics,SMB,False,2,162.4,324.8,False
+1022,2025-02-15,North,Furniture,Enterprise,False,3,420.5,1261.5,False
+1358,2025-02-15,East,Furniture,SMB,True,7,468.54,3279.78,True
+513,2025-02-16,North,Electronics,SMB,False,4,435.57,1742.28,False
+1622,2025-02-16,East,Furniture,Enterprise,True,7,282.84,1979.88,False
+1085,2025-02-16,South,Furniture,Enterprise,False,9,347.36,3126.24,False
+755,2025-02-16,South,Toys,SMB,False,4,62.19,248.76,False
+353,2025-02-16,West,Toys,SMB,False,9,36.85,331.65,False
+1169,2025-02-16,North,Electronics,Enterprise,False,1,348.36,348.36,False
+316,2025-02-16,North,Toys,SMB,False,7,178.42,1248.94,True
+656,2025-02-16,East,Toys,Enterprise,False,2,497.82,995.64,False
+839,2025-02-16,West,Electronics,SMB,True,4,133.75,535.0,False
+338,2025-02-17,East,Toys,SMB,False,9,432.9,3896.1,False
+86,2025-02-17,East,Furniture,Enterprise,True,5,236.93,1184.65,False
+1883,2025-02-17,South,Apparel,SMB,True,4,23.32,93.28,True
+662,2025-02-17,North,Electronics,Enterprise,False,6,363.71,2182.26,False
+1652,2025-02-18,South,Furniture,SMB,True,3,431.74,1295.22,False
+21,2025-02-18,East,Furniture,SMB,True,6,381.96,2291.76,False
+249,2025-02-18,North,Furniture,Enterprise,True,4,234.72,938.88,False
+1924,2025-02-18,South,Furniture,SMB,True,3,397.24,1191.72,False
+1637,2025-02-18,North,Apparel,SMB,False,5,49.3,246.5,True
+1756,2025-02-18,North,Electronics,Enterprise,True,5,439.65,2198.25,False
+1691,2025-02-18,South,Furniture,Mid-Market,False,2,355.66,711.32,False
+900,2025-02-18,North,Apparel,SMB,False,7,348.2,2437.4,True
+907,2025-02-18,South,Apparel,Mid-Market,False,9,264.52,2380.68,True
+1640,2025-02-19,West,Office Supplies,SMB,False,8,58.94,471.52,False
+45,2025-02-19,East,Furniture,Enterprise,True,6,134.48,806.88,False
+1325,2025-02-19,South,Toys,Mid-Market,True,6,89.27,535.62,False
+1979,2025-02-19,East,Apparel,Mid-Market,False,6,162.49,974.94,False
+1700,2025-02-19,South,Furniture,Enterprise,True,1,305.64,305.64,False
+1432,2025-02-19,North,Apparel,SMB,True,2,225.78,451.56,False
+612,2025-02-20,South,Apparel,Mid-Market,True,6,356.65,2139.9,True
+943,2025-02-20,South,Office Supplies,Enterprise,False,6,36.13,216.78,False
+578,2025-02-20,South,Furniture,SMB,False,9,129.24,1163.16,False
+295,2025-02-20,North,Toys,SMB,False,5,157.78,788.9,False
+1913,2025-02-20,East,Electronics,SMB,True,6,110.75,664.5,False
+864,2025-02-20,North,Toys,Mid-Market,True,4,448.84,1795.36,True
+1593,2025-02-20,West,Toys,Mid-Market,False,5,485.88,2429.4,False
+240,2025-02-20,South,Office Supplies,SMB,True,4,364.23,1456.92,False
+28,2025-02-20,East,Apparel,SMB,True,5,129.86,649.3,False
+641,2025-02-20,East,Electronics,SMB,False,2,181.52,363.04,False
+435,2025-02-21,North,Toys,Mid-Market,False,7,408.32,2858.24,False
+1153,2025-02-21,West,Electronics,Enterprise,False,7,158.89,1112.23,False
+1864,2025-02-21,East,Apparel,Enterprise,False,8,244.85,1958.8,False
+1596,2025-02-21,East,Apparel,Mid-Market,True,3,478.83,1436.49,True
+149,2025-02-21,North,Toys,SMB,True,7,229.82,1608.74,False
+107,2025-02-21,South,Apparel,Mid-Market,False,6,393.2,2359.2,False
+39,2025-02-22,South,Apparel,SMB,False,4,310.23,1240.92,False
+309,2025-02-22,South,Toys,SMB,True,9,165.27,1487.43,False
+63,2025-02-22,North,Furniture,SMB,False,7,38.7,270.9,False
+1541,2025-02-22,South,Furniture,Mid-Market,False,5,488.7,2443.5,False
+975,2025-02-22,North,Office Supplies,SMB,True,3,195.81,587.43,False
+440,2025-02-22,East,Toys,SMB,False,7,369.66,2587.62,False
+570,2025-02-22,North,Furniture,SMB,False,3,55.29,165.87,False
+621,2025-02-22,East,Apparel,Enterprise,True,8,232.66,1861.28,False
+165,2025-02-22,South,Electronics,SMB,True,7,53.05,371.35,False
+518,2025-02-23,West,Apparel,Mid-Market,False,4,447.58,1790.32,False
+592,2025-02-23,North,Apparel,SMB,True,9,223.0,2007.0,True
+306,2025-02-23,North,Toys,Enterprise,False,9,119.15,1072.35,False
+160,2025-02-23,East,Office Supplies,Mid-Market,True,8,155.5,1244.0,False
+271,2025-02-23,East,Office Supplies,Enterprise,False,8,357.27,2858.16,False
+47,2025-02-23,South,Electronics,SMB,False,2,418.8,837.6,False
+212,2025-02-23,East,Apparel,Mid-Market,False,6,166.44,998.64,False
+1168,2025-02-23,East,Office Supplies,SMB,False,7,360.35,2522.45,False
+938,2025-02-23,North,Apparel,Enterprise,True,6,412.18,2473.08,True
+1718,2025-02-24,South,Toys,SMB,False,3,485.79,1457.37,False
+933,2025-02-24,South,Furniture,SMB,False,5,305.89,1529.45,False
+928,2025-02-24,East,Electronics,SMB,False,6,261.56,1569.36,False
+1037,2025-02-24,North,Furniture,SMB,True,5,392.28,1961.4,False
+1408,2025-02-24,West,Apparel,SMB,True,8,257.58,2060.64,False
+29,2025-02-24,East,Furniture,Enterprise,True,6,385.12,2310.72,False
+873,2025-02-24,East,Toys,SMB,False,8,85.59,684.72,False
+672,2025-02-25,North,Furniture,SMB,True,1,165.87,165.87,False
+1215,2025-02-25,North,Office Supplies,SMB,True,2,221.72,443.44,False
+1808,2025-02-25,North,Furniture,SMB,False,2,130.59,261.18,False
+660,2025-02-25,North,Apparel,Mid-Market,False,5,213.23,1066.15,False
+1069,2025-02-26,North,Furniture,SMB,False,1,454.42,454.42,False
+443,2025-02-26,East,Office Supplies,Enterprise,True,9,433.74,3903.66,True
+498,2025-02-27,West,Furniture,Enterprise,False,2,39.68,79.36,False
+1702,2025-02-27,West,Furniture,SMB,False,4,68.23,272.92,False
+491,2025-02-27,East,Toys,Mid-Market,True,2,386.6,773.2,False
+272,2025-02-27,North,Furniture,Mid-Market,False,5,258.55,1292.75,True
+1287,2025-02-27,South,Office Supplies,Enterprise,False,8,273.17,2185.36,False
+326,2025-02-27,West,Apparel,SMB,False,9,72.62,653.58,False
+331,2025-02-27,East,Electronics,Enterprise,False,2,255.8,511.6,False
+302,2025-02-27,North,Office Supplies,Enterprise,True,6,422.57,2535.42,False
+1309,2025-02-27,North,Electronics,SMB,False,8,153.98,1231.84,False
+1155,2025-02-28,South,Office Supplies,SMB,False,1,103.0,103.0,False
+1225,2025-02-28,East,Office Supplies,Enterprise,False,3,277.56,832.68,False
+980,2025-02-28,South,Office Supplies,Mid-Market,False,7,184.22,1289.54,False
+1224,2025-02-28,East,Apparel,SMB,False,1,342.1,342.1,False
+1418,2025-02-28,North,Apparel,SMB,True,4,88.06,352.24,True
+1083,2025-02-28,South,Apparel,Enterprise,True,4,54.79,219.16,False
+22,2025-02-28,East,Furniture,Enterprise,False,5,383.9,1919.5,True
+1503,2025-02-28,East,Furniture,SMB,True,6,402.95,2417.7,False
+784,2025-03-01,North,Apparel,Enterprise,False,9,116.21,1045.89,False
+310,2025-03-01,North,Office Supplies,SMB,False,7,174.41,1220.87,False
+1644,2025-03-01,North,Office Supplies,SMB,False,2,248.64,497.28,False
+1882,2025-03-01,East,Furniture,Enterprise,True,6,291.22,1747.32,False
+1318,2025-03-01,West,Office Supplies,Enterprise,False,8,451.3,3610.4,False
+1800,2025-03-01,West,Apparel,Enterprise,False,5,83.76,418.8,False
+1262,2025-03-01,East,Toys,Mid-Market,False,7,142.51,997.57,False
+199,2025-03-01,East,Office Supplies,SMB,True,6,202.68,1216.08,False
+1055,2025-03-02,West,Apparel,SMB,True,6,494.7,2968.2,False
+639,2025-03-02,East,Apparel,Enterprise,False,8,325.81,2606.48,False
+1176,2025-03-02,South,Toys,Enterprise,True,9,226.74,2040.66,False
+1146,2025-03-02,East,Furniture,SMB,True,3,296.89,890.67,False
+663,2025-03-02,South,Office Supplies,SMB,False,4,443.11,1772.44,False
+1149,2025-03-03,West,Office Supplies,Mid-Market,True,3,137.69,413.07,False
+792,2025-03-03,East,Office Supplies,Mid-Market,False,2,234.46,468.92,False
+743,2025-03-03,West,Toys,Enterprise,True,4,356.77,1427.08,False
+1841,2025-03-03,North,Office Supplies,SMB,False,8,133.97,1071.76,False
+124,2025-03-03,North,Office Supplies,Enterprise,False,4,76.26,305.04,False
+87,2025-03-03,West,Furniture,SMB,False,1,87.23,87.23,False
+1831,2025-03-03,South,Toys,Enterprise,False,3,103.73,311.19,False
+1178,2025-03-03,East,Furniture,SMB,False,5,263.63,1318.15,False
+423,2025-03-03,West,Apparel,Mid-Market,True,5,496.2,2481.0,True
+104,2025-03-04,North,Office Supplies,Mid-Market,True,9,330.28,2972.52,False
+559,2025-03-04,West,Toys,Enterprise,False,8,354.13,2833.04,False
+879,2025-03-04,South,Furniture,Mid-Market,False,6,111.38,668.28,False
+1546,2025-03-04,East,Apparel,SMB,True,9,377.5,3397.5,False
+1158,2025-03-04,North,Furniture,SMB,True,2,345.88,691.76,False
+1828,2025-03-04,East,Office Supplies,Enterprise,True,8,349.43,2795.44,False
+896,2025-03-04,West,Toys,Mid-Market,False,6,86.56,519.36,False
+905,2025-03-04,South,Apparel,Mid-Market,False,3,115.46,346.38,False
+298,2025-03-04,East,Office Supplies,Mid-Market,False,2,69.67,139.34,False
+803,2025-03-04,South,Apparel,SMB,False,8,450.58,3604.64,False
+74,2025-03-04,East,Furniture,SMB,False,2,19.36,38.72,False
+1484,2025-03-05,East,Electronics,SMB,False,2,482.25,964.5,False
+1342,2025-03-05,East,Apparel,SMB,False,7,201.53,1410.71,True
+1023,2025-03-05,South,Furniture,SMB,False,2,480.76,961.52,False
+1135,2025-03-06,South,Toys,SMB,False,7,231.35,1619.45,False
+385,2025-03-06,East,Apparel,Enterprise,False,4,21.02,84.08,False
+1848,2025-03-06,North,Furniture,SMB,True,7,488.92,3422.44,False
+553,2025-03-06,South,Electronics,Enterprise,False,2,336.94,673.88,False
+1567,2025-03-06,North,Office Supplies,Enterprise,False,5,491.39,2456.95,False
+70,2025-03-06,North,Electronics,SMB,False,8,388.35,3106.8,False
+600,2025-03-07,East,Toys,SMB,False,8,468.28,3746.24,False
+121,2025-03-07,North,Office Supplies,SMB,True,5,293.1,1465.5,False
+1467,2025-03-07,East,Toys,Mid-Market,False,8,37.63,301.04,False
+1769,2025-03-07,North,Toys,SMB,False,6,130.79,784.74,False
+1743,2025-03-07,South,Furniture,Enterprise,False,9,64.68,582.12,False
+1439,2025-03-07,South,Apparel,Mid-Market,False,4,114.86,459.44,False
+1764,2025-03-08,South,Office Supplies,Enterprise,False,3,27.71,83.13,False
+813,2025-03-08,North,Furniture,SMB,False,1,71.44,71.44,False
+703,2025-03-08,North,Office Supplies,Enterprise,False,6,67.6,405.6,False
+1701,2025-03-08,South,Electronics,SMB,True,8,25.35,202.8,False
+942,2025-03-08,North,Apparel,SMB,False,3,135.7,407.1,False
+229,2025-03-09,South,Apparel,Enterprise,True,3,291.79,875.37,False
+702,2025-03-09,South,Furniture,SMB,True,4,19.67,78.68,False
+1786,2025-03-09,East,Toys,SMB,False,5,378.87,1894.35,False
+1676,2025-03-09,North,Furniture,SMB,True,2,206.19,412.38,False
+1187,2025-03-09,North,Electronics,SMB,True,7,194.04,1358.28,False
+1639,2025-03-09,South,Office Supplies,SMB,True,7,79.01,553.07,False
+1041,2025-03-10,North,Apparel,Mid-Market,False,2,208.06,416.12,False
+618,2025-03-10,West,Furniture,Enterprise,True,5,366.04,1830.2,False
+344,2025-03-10,East,Toys,SMB,False,4,407.74,1630.96,False
+352,2025-03-10,South,Apparel,SMB,False,2,165.97,331.94,False
+845,2025-03-10,East,Furniture,SMB,False,2,432.53,865.06,False
+1650,2025-03-10,South,Toys,SMB,False,1,175.88,175.88,False
+778,2025-03-10,North,Apparel,Mid-Market,True,1,194.6,194.6,False
+1542,2025-03-10,South,Electronics,SMB,True,3,89.61,268.83,False
+1896,2025-03-10,North,Apparel,Enterprise,False,3,260.15,780.45,False
+437,2025-03-10,North,Electronics,SMB,False,5,380.48,1902.4,False
+1688,2025-03-11,West,Furniture,Mid-Market,True,3,41.81,125.43,False
+723,2025-03-11,East,Apparel,SMB,False,1,192.71,192.71,False
+477,2025-03-11,North,Electronics,Enterprise,True,9,412.85,3715.65,False
+1615,2025-03-12,North,Apparel,Mid-Market,False,6,428.02,2568.12,False
+4,2025-03-13,North,Furniture,Enterprise,False,7,10.53,73.71,False
+1341,2025-03-13,East,Furniture,SMB,False,2,249.93,499.86,False
+1156,2025-03-13,West,Toys,Enterprise,False,8,101.57,812.56,False
+1317,2025-03-13,East,Toys,Enterprise,True,2,149.73,299.46,False
+584,2025-03-13,North,Office Supplies,SMB,True,2,421.15,842.3,False
+1345,2025-03-13,South,Electronics,SMB,True,5,252.66,1263.3,False
+1999,2025-03-13,South,Office Supplies,Enterprise,False,6,143.59,861.54,False
+1634,2025-03-13,South,Toys,SMB,False,9,481.74,4335.66,True
+1384,2025-03-14,West,Office Supplies,SMB,False,2,56.87,113.74,False
+1050,2025-03-14,South,Electronics,Enterprise,True,8,110.81,886.48,False
+1553,2025-03-14,South,Office Supplies,Mid-Market,False,8,374.67,2997.36,False
+1547,2025-03-14,East,Toys,Enterprise,True,7,145.0,1015.0,True
+1767,2025-03-14,East,Toys,Enterprise,False,3,480.5,1441.5,False
+1143,2025-03-14,North,Office Supplies,Mid-Market,False,6,371.58,2229.48,False
+1686,2025-03-14,East,Apparel,SMB,True,2,189.69,379.38,True
+654,2025-03-14,West,Electronics,SMB,True,4,206.98,827.92,False
+1612,2025-03-15,South,Toys,Enterprise,False,2,486.56,973.12,False
+1259,2025-03-15,West,Furniture,SMB,True,6,49.25,295.5,True
+460,2025-03-15,East,Office Supplies,Mid-Market,False,3,106.44,319.32,False
+883,2025-03-16,West,Toys,Enterprise,False,5,123.77,618.85,False
+216,2025-03-16,South,Toys,Enterprise,False,4,344.83,1379.32,False
+738,2025-03-16,West,Furniture,SMB,False,9,211.78,1906.02,False
+1295,2025-03-16,North,Furniture,Enterprise,True,3,213.42,640.26,False
+403,2025-03-16,South,Office Supplies,SMB,False,7,476.06,3332.42,False
+601,2025-03-16,South,Apparel,Enterprise,False,6,188.85,1133.1,False
+1000,2025-03-16,South,Furniture,SMB,True,6,390.25,2341.5,False
+1009,2025-03-17,South,Electronics,Enterprise,False,3,156.74,470.22,False
+781,2025-03-17,North,Toys,Enterprise,False,2,479.28,958.56,False
+1537,2025-03-17,North,Office Supplies,Mid-Market,True,9,350.57,3155.13,False
+458,2025-03-17,South,Apparel,Enterprise,True,5,44.2,221.0,True
+1568,2025-03-17,West,Electronics,SMB,False,8,194.31,1554.48,False
+346,2025-03-17,West,Apparel,Enterprise,False,8,140.24,1121.92,False
+1357,2025-03-17,South,Furniture,Enterprise,False,6,303.43,1820.58,False
+431,2025-03-17,South,Office Supplies,Mid-Market,False,1,444.62,444.62,False
+1607,2025-03-18,East,Toys,Enterprise,True,3,152.81,458.43,False
+1370,2025-03-18,South,Office Supplies,SMB,False,8,363.3,2906.4,False
+1664,2025-03-18,North,Furniture,SMB,False,7,384.68,2692.76,False
+1555,2025-03-18,East,Apparel,Mid-Market,False,1,87.69,87.69,False
+1247,2025-03-18,East,Electronics,Mid-Market,False,9,317.05,2853.45,True
+791,2025-03-19,West,Electronics,SMB,True,5,324.86,1624.3,False
+949,2025-03-19,West,Office Supplies,SMB,False,9,462.8,4165.2,False
+919,2025-03-19,West,Toys,SMB,True,4,145.59,582.36,False
+676,2025-03-19,North,Toys,Mid-Market,True,6,230.72,1384.32,True
+1925,2025-03-19,North,Office Supplies,SMB,True,9,151.52,1363.68,False
+1663,2025-03-19,East,Office Supplies,SMB,False,8,207.11,1656.88,False
+652,2025-03-19,West,Toys,SMB,False,8,268.11,2144.88,False
+576,2025-03-19,South,Office Supplies,SMB,False,9,74.01,666.09,False
+1785,2025-03-20,South,Office Supplies,Enterprise,False,1,137.59,137.59,False
+1845,2025-03-20,South,Office Supplies,SMB,False,4,72.73,290.92,False
+1286,2025-03-20,North,Apparel,SMB,True,4,104.76,419.04,False
+1322,2025-03-20,North,Electronics,SMB,False,4,252.37,1009.48,False
+1894,2025-03-20,East,Apparel,Enterprise,False,2,351.38,702.76,False
+504,2025-03-21,South,Apparel,SMB,True,7,295.72,2070.04,False
+1815,2025-03-21,North,Electronics,SMB,True,4,124.22,496.88,False
+1476,2025-03-21,South,Furniture,Enterprise,True,2,369.84,739.68,False
+1071,2025-03-21,South,Electronics,Enterprise,True,4,483.39,1933.56,False
+1360,2025-03-21,South,Toys,SMB,False,9,84.48,760.32,False
+76,2025-03-22,East,Apparel,Mid-Market,True,2,321.45,642.9,False
+976,2025-03-22,South,Toys,Enterprise,False,9,238.15,2143.35,False
+44,2025-03-22,North,Apparel,Mid-Market,False,7,428.04,2996.28,False
+1209,2025-03-22,North,Office Supplies,Mid-Market,True,4,436.86,1747.44,False
+613,2025-03-22,South,Office Supplies,Mid-Market,True,9,244.95,2204.55,False
+154,2025-03-22,East,Toys,Mid-Market,False,3,36.14,108.42,False
+1075,2025-03-22,North,Furniture,SMB,True,2,43.44,86.88,False
+1562,2025-03-23,South,Furniture,Mid-Market,False,2,59.29,118.58,False
+1244,2025-03-23,South,Electronics,SMB,False,6,314.33,1885.98,False
+1867,2025-03-23,North,Toys,SMB,True,3,106.25,318.75,False
+963,2025-03-23,South,Electronics,Enterprise,False,5,265.53,1327.65,False
+1759,2025-03-23,East,Electronics,SMB,True,1,497.4,497.4,True
+1097,2025-03-23,East,Apparel,Mid-Market,True,8,68.84,550.72,False
+1414,2025-03-23,North,Furniture,Enterprise,False,2,272.34,544.68,False
+545,2025-03-23,South,Toys,SMB,True,2,230.3,460.6,False
+714,2025-03-24,East,Electronics,Enterprise,False,9,450.08,4050.72,False
+573,2025-03-24,East,Apparel,SMB,False,1,455.66,455.66,True
+1809,2025-03-24,South,Toys,Mid-Market,False,1,292.93,292.93,False
+1298,2025-03-25,East,Furniture,Enterprise,True,5,240.31,1201.55,False
+424,2025-03-25,East,Office Supplies,SMB,True,2,204.43,408.86,False
+771,2025-03-25,East,Furniture,SMB,True,3,355.66,1066.98,False
+1618,2025-03-25,East,Furniture,Mid-Market,False,9,270.32,2432.88,False
+1305,2025-03-25,West,Electronics,Mid-Market,True,9,158.21,1423.89,False
+1462,2025-03-25,North,Furniture,Enterprise,False,1,323.8,323.8,False
+1390,2025-03-25,North,Toys,SMB,True,5,288.24,1441.2,False
+1394,2025-03-25,South,Toys,SMB,True,9,35.5,319.5,False
+1733,2025-03-25,West,Apparel,SMB,False,1,227.4,227.4,False
+901,2025-03-25,East,Electronics,SMB,True,1,217.43,217.43,False
+1668,2025-03-26,South,Furniture,SMB,False,4,270.76,1083.04,False
+1578,2025-03-26,North,Furniture,SMB,False,1,398.65,398.65,False
+575,2025-03-26,South,Apparel,Mid-Market,True,8,404.92,3239.36,False
+958,2025-03-26,North,Electronics,SMB,True,8,448.04,3584.32,False
+1527,2025-03-27,West,Electronics,SMB,True,4,368.98,1475.92,False
+1971,2025-03-27,East,Electronics,SMB,False,1,127.08,127.08,False
+825,2025-03-27,North,Office Supplies,Enterprise,False,3,461.03,1383.09,False
+1361,2025-03-27,South,Electronics,SMB,True,8,95.35,762.8,False
+349,2025-03-27,South,Office Supplies,Enterprise,True,9,136.25,1226.25,False
+1838,2025-03-27,South,Office Supplies,Mid-Market,True,3,381.46,1144.38,False
+695,2025-03-27,East,Toys,Mid-Market,True,4,191.33,765.32,False
+1089,2025-03-27,East,Electronics,SMB,False,2,108.01,216.02,False
+120,2025-03-27,West,Furniture,SMB,False,7,117.3,821.1,False
+1455,2025-03-28,South,Furniture,SMB,True,4,398.06,1592.24,False
+1402,2025-03-28,North,Toys,Mid-Market,False,5,33.36,166.8,False
+1897,2025-03-28,North,Apparel,SMB,True,6,88.06,528.36,False
+1010,2025-03-28,North,Toys,SMB,False,8,495.22,3961.76,False
+932,2025-03-28,East,Apparel,Enterprise,False,2,264.09,528.18,True
+1901,2025-03-28,South,Office Supplies,Mid-Market,False,4,410.07,1640.28,False
+948,2025-03-29,West,Toys,Enterprise,True,2,244.97,489.94,False
+10,2025-03-29,East,Office Supplies,SMB,False,4,26.68,106.72,False
+1981,2025-03-29,South,Office Supplies,Enterprise,False,1,305.56,305.56,False
+1355,2025-03-29,West,Office Supplies,Enterprise,True,6,198.95,1193.7,False
+339,2025-03-30,North,Electronics,SMB,False,4,267.52,1070.08,False
+794,2025-03-30,North,Toys,SMB,True,8,21.83,174.64,False
+1186,2025-03-30,South,Apparel,SMB,False,9,190.33,1712.97,False
+797,2025-03-30,West,Apparel,Mid-Market,False,2,496.76,993.52,False
+1550,2025-03-30,East,Apparel,Enterprise,True,4,129.66,518.64,False
+35,2025-03-30,North,Electronics,Mid-Market,False,5,118.92,594.6,False
+1564,2025-03-30,West,Furniture,SMB,False,2,258.55,517.1,True
+1080,2025-03-30,East,Furniture,SMB,False,7,34.04,238.28,False
+528,2025-03-31,South,Furniture,Enterprise,True,7,88.45,619.15,False
+1376,2025-03-31,East,Office Supplies,Mid-Market,False,8,29.59,236.72,False
+1609,2025-03-31,South,Office Supplies,SMB,True,8,330.3,2642.4,False
+882,2025-03-31,West,Electronics,SMB,False,4,165.7,662.8,False
+395,2025-03-31,North,Apparel,Enterprise,False,8,21.85,174.8,False
+1543,2025-03-31,South,Toys,SMB,False,5,304.33,1521.65,False
+398,2025-03-31,North,Furniture,SMB,False,5,342.4,1712.0,False
+1206,2025-03-31,East,Electronics,SMB,True,6,185.57,1113.42,False
+757,2025-03-31,West,Toys,SMB,True,5,453.14,2265.7,True
+481,2025-04-01,North,Furniture,SMB,False,8,253.37,2026.96,False
+1362,2025-04-02,East,Office Supplies,SMB,True,1,59.24,59.24,False
+863,2025-04-02,West,Office Supplies,Mid-Market,False,1,356.48,356.48,False
+1223,2025-04-02,South,Electronics,Mid-Market,False,9,430.99,3878.91,False
+1303,2025-04-02,West,Furniture,SMB,False,4,66.2,264.8,False
+945,2025-04-02,North,Electronics,SMB,False,9,427.49,3847.41,False
+325,2025-04-02,West,Office Supplies,SMB,True,2,453.12,906.24,False
+643,2025-04-02,North,Office Supplies,Mid-Market,True,2,41.52,83.04,False
+40,2025-04-02,West,Electronics,SMB,False,2,120.53,241.06,False
+293,2025-04-02,North,Office Supplies,SMB,True,9,45.8,412.2,False
+1791,2025-04-02,East,Apparel,Enterprise,True,8,276.21,2209.68,False
+1835,2025-04-02,South,Electronics,SMB,False,7,413.56,2894.92,False
+1423,2025-04-03,South,Furniture,SMB,False,8,196.2,1569.6,False
+1477,2025-04-03,East,Toys,SMB,True,9,69.21,622.89,False
+397,2025-04-03,West,Furniture,Enterprise,True,1,267.94,267.94,False
+1571,2025-04-03,East,Toys,SMB,False,1,310.86,310.86,False
+637,2025-04-03,West,Electronics,SMB,False,5,479.79,2398.95,False
+1320,2025-04-03,South,Electronics,SMB,True,5,333.17,1665.85,False
+354,2025-04-04,North,Furniture,Mid-Market,True,4,354.62,1418.48,False
+776,2025-04-04,East,Toys,SMB,True,6,337.16,2022.96,False
+742,2025-04-04,East,Apparel,SMB,True,8,420.49,3363.92,False
+583,2025-04-05,West,Furniture,Mid-Market,True,4,499.55,1998.2,False
+1980,2025-04-05,South,Electronics,SMB,False,7,426.52,2985.64,False
+390,2025-04-05,West,Office Supplies,SMB,False,3,70.13,210.39,False
+260,2025-04-05,South,Electronics,Enterprise,True,2,314.39,628.78,False
+1346,2025-04-05,North,Office Supplies,Enterprise,False,4,144.84,579.36,False
+842,2025-04-05,East,Toys,SMB,False,6,388.54,2331.24,False
+777,2025-04-05,East,Toys,Mid-Market,True,8,22.87,182.96,False
+631,2025-04-05,West,Electronics,Enterprise,True,4,353.0,1412.0,False
+726,2025-04-05,West,Office Supplies,SMB,False,8,206.65,1653.2,False
+1777,2025-04-05,North,Electronics,Mid-Market,True,9,135.13,1216.17,False
+108,2025-04-06,West,Apparel,Enterprise,False,8,484.31,3874.48,False
+1790,2025-04-06,East,Toys,Enterprise,False,7,278.15,1947.05,True
+145,2025-04-06,South,Electronics,SMB,True,5,320.72,1603.6,False
+947,2025-04-06,North,Electronics,SMB,False,3,425.14,1275.42,False
+335,2025-04-06,North,Apparel,SMB,False,4,259.93,1039.72,False
+1434,2025-04-06,North,Office Supplies,SMB,True,2,133.7,267.4,False
+371,2025-04-06,North,Apparel,SMB,False,7,411.37,2879.59,False
+1124,2025-04-06,North,Apparel,Enterprise,False,5,91.01,455.05,True
+412,2025-04-06,North,Apparel,Enterprise,False,9,446.98,4022.82,False
+822,2025-04-07,South,Furniture,Enterprise,True,5,214.78,1073.9,False
+944,2025-04-07,West,Apparel,SMB,True,2,483.05,966.1,False
+1885,2025-04-07,North,Toys,Mid-Market,False,2,358.03,716.06,False
+179,2025-04-07,South,Furniture,SMB,False,7,191.26,1338.82,False
+244,2025-04-07,North,Office Supplies,SMB,True,8,76.95,615.6,False
+1817,2025-04-07,East,Furniture,Mid-Market,True,4,52.93,211.72,False
+1557,2025-04-08,South,Office Supplies,Mid-Market,False,5,449.14,2245.7,False
+1036,2025-04-08,North,Toys,Enterprise,True,7,302.96,2120.72,False
+1016,2025-04-08,East,Toys,Enterprise,True,6,43.57,261.42,False
+606,2025-04-08,South,Apparel,Enterprise,False,8,209.59,1676.72,False
+1188,2025-04-08,North,Toys,Enterprise,True,1,489.88,489.88,False
+998,2025-04-08,North,Electronics,SMB,True,5,312.19,1560.95,False
+562,2025-04-08,South,Toys,Enterprise,True,6,380.66,2283.96,False
+175,2025-04-08,North,Furniture,SMB,True,8,49.01,392.08,False
+1106,2025-04-08,West,Electronics,Enterprise,False,8,202.85,1622.8,False
+564,2025-04-09,North,Furniture,Mid-Market,False,1,283.65,283.65,False
+261,2025-04-09,North,Furniture,SMB,False,5,11.73,58.65,False
+410,2025-04-09,West,Furniture,SMB,True,5,196.54,982.7,False
+1173,2025-04-09,North,Furniture,SMB,False,9,336.18,3025.62,False
+1291,2025-04-09,East,Office Supplies,Enterprise,True,2,336.08,672.16,False
+194,2025-04-09,East,Apparel,Mid-Market,False,8,320.2,2561.6,False
+438,2025-04-09,East,Toys,SMB,True,5,58.08,290.4,False
+1810,2025-04-09,North,Apparel,SMB,False,5,214.73,1073.65,False
+256,2025-04-09,East,Apparel,Enterprise,False,9,63.54,571.86,False
+207,2025-04-09,North,Furniture,SMB,False,1,122.97,122.97,False
+222,2025-04-09,North,Apparel,SMB,False,7,85.66,599.62,True
+89,2025-04-09,North,Apparel,Enterprise,False,8,374.07,2992.56,False
+11,2025-04-10,East,Furniture,SMB,True,4,412.33,1649.32,False
+429,2025-04-10,West,Office Supplies,Mid-Market,False,5,188.5,942.5,False
+1643,2025-04-10,North,Electronics,Enterprise,False,3,360.4,1081.2,False
+359,2025-04-10,East,Furniture,Enterprise,True,3,52.99,158.97,False
+366,2025-04-10,West,Toys,Enterprise,True,9,465.11,4185.99,False
+1453,2025-04-10,East,Office Supplies,SMB,True,9,32.4,291.6,False
+716,2025-04-11,South,Furniture,Enterprise,False,7,277.79,1944.53,False
+94,2025-04-11,South,Toys,SMB,True,2,402.38,804.76,True
+1898,2025-04-11,East,Furniture,SMB,True,7,192.37,1346.59,False
+1066,2025-04-11,North,Furniture,Enterprise,False,9,16.07,144.63,False
+869,2025-04-11,East,Electronics,Enterprise,False,3,420.29,1260.87,False
+307,2025-04-11,North,Apparel,Mid-Market,False,9,175.45,1579.05,False
+383,2025-04-11,North,Apparel,Enterprise,True,3,81.09,243.27,True
+152,2025-04-11,South,Apparel,Enterprise,False,9,218.04,1962.36,False
+1752,2025-04-11,East,Toys,Mid-Market,True,4,396.94,1587.76,False
+772,2025-04-11,South,Furniture,Enterprise,True,4,341.12,1364.48,False
+1823,2025-04-11,South,Office Supplies,Enterprise,True,9,472.77,4254.93,False
+1678,2025-04-12,North,Electronics,SMB,False,9,71.4,642.6,False
+1708,2025-04-12,West,Office Supplies,Mid-Market,False,9,289.16,2602.44,False
+1573,2025-04-12,North,Furniture,SMB,True,4,152.81,611.24,False
+1351,2025-04-12,East,Furniture,SMB,True,2,239.2,478.4,False
+1064,2025-04-12,North,Furniture,SMB,False,2,193.78,387.56,False
+1560,2025-04-12,South,Toys,SMB,False,7,377.67,2643.69,False
+1558,2025-04-12,South,Furniture,Enterprise,False,6,63.31,379.86,False
+1099,2025-04-13,South,Furniture,SMB,True,7,35.37,247.59,False
+1820,2025-04-13,South,Furniture,Enterprise,True,7,141.69,991.83,False
+1373,2025-04-13,East,Office Supplies,Enterprise,False,9,364.26,3278.34,False
+1,2025-04-13,East,Toys,Mid-Market,True,9,485.78,4372.02,False
+7,2025-04-13,South,Toys,SMB,False,4,189.34,757.36,False
+313,2025-04-13,South,Office Supplies,SMB,True,9,51.47,463.23,False
+602,2025-04-13,South,Furniture,Enterprise,False,5,270.63,1353.15,False
+798,2025-04-14,West,Furniture,SMB,True,3,342.6,1027.8,False
+809,2025-04-14,South,Apparel,SMB,False,9,18.49,166.41,False
+1727,2025-04-14,West,Toys,SMB,True,5,320.0,1600.0,False
+808,2025-04-14,North,Furniture,SMB,False,4,120.89,483.56,False
+1056,2025-04-14,East,Apparel,Enterprise,False,9,445.51,4009.59,True
+855,2025-04-14,East,Electronics,SMB,True,8,346.61,2772.88,False
+218,2025-04-14,North,Furniture,Mid-Market,False,2,326.07,652.14,False
+858,2025-04-14,West,Apparel,SMB,False,5,224.43,1122.15,False
+279,2025-04-14,North,Electronics,Enterprise,True,5,482.28,2411.4,False
+1190,2025-04-15,North,Furniture,Mid-Market,False,5,139.96,699.8,False
+400,2025-04-15,South,Furniture,Mid-Market,True,5,133.55,667.75,True
+563,2025-04-15,East,Office Supplies,SMB,False,7,222.69,1558.83,False
+1926,2025-04-15,West,Furniture,SMB,True,4,199.87,799.48,False
+1435,2025-04-15,East,Electronics,SMB,False,9,193.14,1738.26,True
+1876,2025-04-15,North,Apparel,SMB,True,1,93.67,93.67,False
+1380,2025-04-16,South,Apparel,Mid-Market,False,6,150.58,903.48,False
+48,2025-04-16,East,Office Supplies,Enterprise,True,5,161.31,806.55,False
+320,2025-04-16,North,Office Supplies,Enterprise,False,7,406.11,2842.77,False
+862,2025-04-16,South,Toys,Mid-Market,True,2,466.88,933.76,False
+1603,2025-04-16,North,Electronics,Enterprise,False,6,72.06,432.36,False
+1715,2025-04-16,West,Electronics,Enterprise,False,5,76.82,384.1,False
+611,2025-04-16,West,Toys,SMB,False,7,415.69,2909.83,False
+1160,2025-04-17,North,Office Supplies,SMB,False,4,70.17,280.68,False
+1589,2025-04-17,East,Toys,Enterprise,True,1,234.63,234.63,False
+661,2025-04-17,East,Office Supplies,SMB,True,6,429.72,2578.32,False
+1486,2025-04-17,North,Office Supplies,Mid-Market,True,9,289.36,2604.24,False
+3,2025-04-17,North,Apparel,Mid-Market,True,6,294.03,1764.18,False
+1116,2025-04-18,South,Electronics,SMB,True,7,82.57,577.99,False
+127,2025-04-18,South,Toys,Mid-Market,False,6,442.66,2655.96,False
+1062,2025-04-18,West,Office Supplies,SMB,False,7,441.1,3087.7,False
+1104,2025-04-18,West,Electronics,SMB,True,2,477.96,955.92,False
+311,2025-04-18,South,Toys,Enterprise,False,9,175.32,1577.88,False
+1494,2025-04-18,North,Furniture,Enterprise,False,5,189.87,949.35,False
+1992,2025-04-18,North,Office Supplies,SMB,True,5,14.89,74.45,False
+1611,2025-04-18,East,Office Supplies,SMB,False,1,466.49,466.49,False
+1653,2025-04-18,West,Apparel,Enterprise,False,7,81.85,572.95,False
+1681,2025-04-19,West,Apparel,SMB,True,3,441.92,1325.76,False
+1903,2025-04-19,East,Electronics,SMB,True,3,222.64,667.92,False
+445,2025-04-19,North,Electronics,Mid-Market,True,6,32.02,192.12,False
+705,2025-04-19,North,Office Supplies,SMB,True,7,424.01,2968.07,False
+997,2025-04-19,South,Office Supplies,SMB,True,3,50.32,150.96,False
+1779,2025-04-20,West,Apparel,SMB,False,5,65.15,325.75,False
+1575,2025-04-20,East,Toys,SMB,False,6,499.51,2997.06,False
+870,2025-04-20,South,Office Supplies,Enterprise,False,6,440.04,2640.24,False
+1919,2025-04-21,East,Furniture,SMB,True,7,298.27,2087.89,False
+1459,2025-04-21,East,Toys,SMB,False,3,308.85,926.55,False
+683,2025-04-21,North,Furniture,Enterprise,True,8,346.18,2769.44,False
+857,2025-04-21,West,Apparel,Mid-Market,False,6,426.34,2558.04,False
+1995,2025-04-21,North,Furniture,Enterprise,True,6,176.2,1057.2,False
+711,2025-04-21,North,Apparel,Mid-Market,True,1,87.34,87.34,False
+709,2025-04-21,East,Apparel,Enterprise,True,2,186.46,372.92,False
+1391,2025-04-21,North,Apparel,SMB,True,5,488.75,2443.75,False
+627,2025-04-21,West,Electronics,Enterprise,False,8,444.36,3554.88,False
+1038,2025-04-21,South,Electronics,SMB,True,7,176.1,1232.7,True
+707,2025-04-21,North,Apparel,Enterprise,True,3,53.1,159.3,False
+817,2025-04-21,North,Toys,SMB,True,4,206.68,826.72,False
+960,2025-04-22,West,Apparel,Enterprise,True,1,361.95,361.95,False
+198,2025-04-22,South,Furniture,Enterprise,False,2,381.46,762.92,False
+221,2025-04-22,West,Office Supplies,Mid-Market,False,2,416.68,833.36,False
+1865,2025-04-22,North,Apparel,SMB,False,4,367.07,1468.28,True
+724,2025-04-22,South,Office Supplies,Mid-Market,False,7,422.35,2956.45,False
+596,2025-04-22,West,Toys,Enterprise,False,8,316.77,2534.16,False
+667,2025-04-23,East,Office Supplies,Mid-Market,True,7,33.52,234.64,False
+1253,2025-04-23,East,Electronics,SMB,True,2,337.12,674.24,False
+922,2025-04-23,East,Furniture,Mid-Market,True,9,180.3,1622.7,False
+1952,2025-04-23,North,Toys,Mid-Market,False,2,58.78,117.56,False
+156,2025-04-23,West,Toys,Enterprise,True,3,318.46,955.38,False
+1875,2025-04-23,South,Furniture,Enterprise,False,6,187.28,1123.68,False
+153,2025-04-23,North,Furniture,SMB,False,5,419.05,2095.25,False
+151,2025-04-23,East,Toys,Mid-Market,False,3,485.57,1456.71,False
+148,2025-04-23,West,Furniture,SMB,False,8,141.91,1135.28,False
+753,2025-04-23,West,Electronics,Mid-Market,False,8,362.79,2902.32,False
+1032,2025-04-23,East,Apparel,Enterprise,True,3,367.03,1101.09,False
+217,2025-04-23,East,Furniture,Enterprise,True,8,138.61,1108.88,False
+274,2025-04-24,South,Apparel,SMB,False,8,359.15,2873.2,False
+1532,2025-04-24,North,Toys,SMB,False,9,317.62,2858.58,False
+923,2025-04-24,South,Furniture,SMB,False,8,311.23,2489.84,False
+1741,2025-04-24,East,Toys,SMB,True,6,276.17,1657.02,False
+402,2025-04-24,East,Toys,SMB,False,1,255.46,255.46,False
+1210,2025-04-24,East,Furniture,SMB,False,6,485.33,2911.98,True
+1948,2025-04-24,North,Toys,SMB,True,4,85.02,340.08,False
+1213,2025-04-25,South,Office Supplies,SMB,True,9,325.3,2927.7,False
+399,2025-04-25,South,Apparel,Enterprise,False,6,150.23,901.38,False
+985,2025-04-25,West,Furniture,SMB,True,1,26.12,26.12,False
+843,2025-04-25,South,Office Supplies,SMB,True,8,169.09,1352.72,False
+1726,2025-04-25,North,Apparel,SMB,False,3,88.82,266.46,False
+1710,2025-04-26,West,Toys,SMB,False,8,231.69,1853.52,False
+1829,2025-04-26,North,Apparel,SMB,True,3,134.19,402.57,False
+134,2025-04-26,North,Office Supplies,Mid-Market,False,3,365.11,1095.33,False
+263,2025-04-26,West,Electronics,Enterprise,True,5,187.11,935.55,False
+1371,2025-04-26,North,Apparel,SMB,True,7,325.01,2275.07,False
+215,2025-04-26,South,Office Supplies,Mid-Market,False,5,466.39,2331.95,False
+1861,2025-04-27,East,Office Supplies,SMB,False,8,32.33,258.64,False
+328,2025-04-27,East,Electronics,SMB,True,8,290.22,2321.76,True
+1437,2025-04-27,South,Furniture,Enterprise,False,3,312.73,938.19,False
+1579,2025-04-27,North,Furniture,Enterprise,False,9,304.22,2737.98,False
+1590,2025-04-27,West,Toys,Enterprise,False,7,266.25,1863.75,False
+877,2025-04-27,North,Toys,SMB,False,4,293.84,1175.36,False
+1092,2025-04-27,East,Apparel,SMB,True,4,424.47,1697.88,True
+496,2025-04-27,East,Office Supplies,SMB,True,9,89.51,805.59,False
+1340,2025-04-27,North,Toys,Mid-Market,True,5,124.51,622.55,False
+1783,2025-04-27,North,Office Supplies,SMB,False,1,156.71,156.71,False
+1011,2025-04-27,North,Office Supplies,Enterprise,False,1,320.04,320.04,False
+829,2025-04-28,East,Toys,Mid-Market,False,8,338.85,2710.8,False
+749,2025-04-28,North,Furniture,SMB,True,7,44.63,312.41,False
+1988,2025-04-28,North,Toys,Enterprise,True,2,198.21,396.42,False
+904,2025-04-28,West,Office Supplies,SMB,False,4,403.6,1614.4,False
+589,2025-04-28,North,Apparel,Enterprise,True,1,137.95,137.95,False
+1474,2025-04-28,South,Furniture,SMB,True,9,25.47,229.23,False
+1728,2025-04-28,West,Office Supplies,Mid-Market,True,3,35.71,107.13,False
+741,2025-04-28,North,Electronics,Mid-Market,True,9,345.55,3109.95,False
+1624,2025-04-28,South,Furniture,SMB,False,3,483.1,1449.3,False
+337,2025-04-28,North,Apparel,Enterprise,True,5,174.2,871.0,True
+1499,2025-04-29,West,Office Supplies,SMB,False,6,19.52,117.12,False
+1956,2025-04-29,South,Electronics,Enterprise,True,9,275.52,2479.68,False
+1929,2025-04-29,East,Electronics,SMB,False,6,480.94,2885.64,False
+552,2025-04-29,West,Apparel,Enterprise,False,3,146.13,438.39,False
+689,2025-04-29,North,Electronics,SMB,False,1,446.3,446.3,True
+1412,2025-04-29,South,Furniture,SMB,True,6,439.26,2635.56,True
+1530,2025-04-29,North,Apparel,Enterprise,False,4,81.08,324.32,True
+969,2025-04-29,West,Electronics,Enterprise,False,9,279.46,2515.14,False
+1656,2025-04-29,East,Furniture,Mid-Market,False,3,450.72,1352.16,False
+213,2025-04-30,North,Office Supplies,SMB,True,3,202.3,606.9,False
+1273,2025-04-30,East,Furniture,Mid-Market,True,7,449.15,3144.05,False
+1185,2025-04-30,East,Toys,Mid-Market,True,1,165.97,165.97,False
+950,2025-04-30,South,Apparel,Enterprise,True,1,485.04,485.04,False
+1490,2025-04-30,West,Electronics,SMB,False,4,12.76,51.04,False
+1879,2025-04-30,North,Furniture,Enterprise,True,8,463.19,3705.52,False
+979,2025-04-30,South,Office Supplies,SMB,False,4,426.6,1706.4,False
+324,2025-04-30,East,Apparel,Enterprise,False,1,28.02,28.02,False
+1717,2025-05-01,West,Toys,Enterprise,False,5,288.2,1441.0,False
+1731,2025-05-01,East,Toys,Enterprise,True,3,94.15,282.45,False
+657,2025-05-01,North,Apparel,Mid-Market,False,3,367.94,1103.82,False
+133,2025-05-01,South,Apparel,Enterprise,True,4,19.09,76.36,False
+1485,2025-05-01,West,Office Supplies,Mid-Market,False,3,466.11,1398.33,False
+1631,2025-05-01,East,Furniture,SMB,True,6,255.77,1534.62,False
+526,2025-05-02,North,Office Supplies,SMB,True,8,105.68,845.44,False
+8,2025-05-02,East,Toys,SMB,False,5,416.31,2081.55,True
+450,2025-05-02,East,Toys,Enterprise,True,1,280.31,280.31,False
+332,2025-05-02,South,Office Supplies,Enterprise,False,8,21.41,171.28,False
+1406,2025-05-02,North,Furniture,Mid-Market,False,3,424.02,1272.06,False
+640,2025-05-02,South,Electronics,Enterprise,False,4,303.86,1215.44,False
+1021,2025-05-02,North,Electronics,Mid-Market,False,3,92.13,276.39,False
+1378,2025-05-02,West,Office Supplies,SMB,False,1,303.65,303.65,False
+468,2025-05-02,East,Electronics,SMB,True,9,264.12,2377.08,False
+1953,2025-05-02,South,Furniture,Mid-Market,True,5,160.14,800.7,False
+1381,2025-05-03,West,Toys,Mid-Market,False,2,167.8,335.6,False
+173,2025-05-03,North,Apparel,SMB,False,3,228.67,686.01,False
+828,2025-05-03,East,Office Supplies,Mid-Market,False,3,226.21,678.63,False
+1191,2025-05-03,South,Furniture,Enterprise,False,8,73.4,587.2,False
+1825,2025-05-04,South,Electronics,SMB,False,6,143.2,859.2,False
+319,2025-05-04,West,Electronics,SMB,False,4,445.12,1780.48,True
+1591,2025-05-04,East,Toys,Mid-Market,True,2,127.51,255.02,False
+1202,2025-05-04,West,Apparel,SMB,True,5,239.28,1196.4,False
+181,2025-05-04,West,Furniture,SMB,True,2,171.68,343.36,False
+1947,2025-05-04,East,Apparel,Mid-Market,True,2,483.5,967.0,False
+300,2025-05-05,North,Electronics,Mid-Market,True,3,287.49,862.47,False
+1671,2025-05-05,West,Furniture,Enterprise,False,7,326.35,2284.45,False
+1444,2025-05-05,East,Furniture,SMB,True,1,350.86,350.86,False
+801,2025-05-05,North,Toys,Enterprise,False,7,324.05,2268.35,False
+1632,2025-05-05,South,Apparel,Enterprise,True,4,434.64,1738.56,False
+1520,2025-05-06,North,Apparel,SMB,True,6,413.26,2479.56,False
+696,2025-05-06,West,Office Supplies,SMB,True,7,94.96,664.72,False
+490,2025-05-06,West,Office Supplies,SMB,True,1,234.74,234.74,False
+485,2025-05-06,South,Furniture,SMB,False,8,404.57,3236.56,False
+1963,2025-05-06,North,Toys,SMB,True,5,319.46,1597.3,False
+623,2025-05-06,North,Apparel,Enterprise,False,1,239.25,239.25,False
+336,2025-05-06,North,Office Supplies,SMB,False,1,129.67,129.67,False
+163,2025-05-06,North,Apparel,Mid-Market,False,2,413.15,826.3,False
+1512,2025-05-06,West,Toys,Enterprise,False,2,156.34,312.68,False
+1398,2025-05-07,North,Apparel,Enterprise,False,3,129.9,389.7,False
+276,2025-05-07,East,Office Supplies,Enterprise,False,6,174.97,1049.82,False
+329,2025-05-07,East,Toys,Mid-Market,False,3,159.73,479.19,False
+671,2025-05-07,East,Electronics,SMB,False,3,346.26,1038.78,False
+861,2025-05-07,West,Furniture,SMB,True,1,388.91,388.91,False
+268,2025-05-08,East,Electronics,Enterprise,True,9,402.0,3618.0,True
+982,2025-05-08,North,Furniture,SMB,False,9,96.15,865.35,False
+1993,2025-05-08,South,Apparel,SMB,False,9,175.85,1582.65,True
+1002,2025-05-08,West,Toys,Mid-Market,True,6,114.19,685.14,False
+1789,2025-05-08,West,Electronics,Enterprise,False,1,233.47,233.47,False
+232,2025-05-08,West,Furniture,Enterprise,False,1,138.9,138.9,True
+129,2025-05-08,East,Office Supplies,Mid-Market,True,7,435.55,3048.85,False
+886,2025-05-08,East,Toys,SMB,False,2,122.58,245.16,False
+189,2025-05-08,North,Toys,Mid-Market,True,5,451.36,2256.8,False
+330,2025-05-09,South,Apparel,Enterprise,False,7,252.81,1769.67,False
+72,2025-05-09,South,Apparel,Mid-Market,False,1,16.48,16.48,False
+1523,2025-05-09,South,Furniture,SMB,False,5,412.08,2060.4,False
+1053,2025-05-09,South,Toys,Mid-Market,True,8,151.61,1212.88,False
+191,2025-05-09,East,Apparel,Enterprise,False,1,67.38,67.38,False
+1563,2025-05-09,West,Toys,Enterprise,False,2,204.34,408.68,False
+2000,2025-05-09,South,Furniture,SMB,True,1,258.75,258.75,False
+1880,2025-05-09,East,Apparel,SMB,False,3,425.4,1276.2,False
+1804,2025-05-10,South,Office Supplies,Mid-Market,False,5,78.76,393.8,False
+158,2025-05-10,South,Office Supplies,Enterprise,False,1,446.08,446.08,False
+1770,2025-05-10,East,Apparel,Mid-Market,False,4,286.17,1144.68,False
+164,2025-05-10,West,Office Supplies,Mid-Market,False,2,340.97,681.94,False
+1881,2025-05-10,East,Office Supplies,SMB,False,6,194.55,1167.3,False
+841,2025-05-10,West,Toys,Enterprise,False,1,320.75,320.75,False
+1692,2025-05-10,East,Electronics,SMB,False,2,400.57,801.14,True
+1496,2025-05-10,South,Apparel,SMB,False,1,263.02,263.02,True
+1704,2025-05-10,West,Electronics,SMB,False,4,227.43,909.72,False
+1296,2025-05-10,West,Office Supplies,SMB,True,9,401.65,3614.85,False
+770,2025-05-10,South,Electronics,Enterprise,False,9,171.21,1540.89,False
+1799,2025-05-10,West,Electronics,Enterprise,False,6,332.77,1996.62,False
+1463,2025-05-10,East,Office Supplies,Enterprise,True,8,223.94,1791.52,False
+1024,2025-05-10,West,Office Supplies,Enterprise,False,4,30.03,120.12,False
+1419,2025-05-11,East,Apparel,SMB,True,4,247.09,988.36,True
+1060,2025-05-11,East,Furniture,SMB,True,2,18.4,36.8,False
+95,2025-05-11,South,Apparel,Enterprise,False,1,251.81,251.81,True
+929,2025-05-11,West,Electronics,Enterprise,True,7,406.7,2846.9,False
+210,2025-05-11,North,Electronics,SMB,True,3,79.87,239.61,False
+13,2025-05-11,South,Toys,Enterprise,True,5,175.69,878.45,False
+1107,2025-05-11,North,Apparel,Enterprise,False,7,246.79,1727.53,False
+1446,2025-05-11,East,Apparel,Enterprise,False,8,132.82,1062.56,False
+31,2025-05-11,North,Apparel,Enterprise,False,2,82.21,164.42,False
+1608,2025-05-12,East,Electronics,Mid-Market,True,3,67.46,202.38,False
+1559,2025-05-12,West,Toys,SMB,True,4,241.73,966.92,False
+793,2025-05-12,South,Electronics,Mid-Market,False,7,398.22,2787.54,False
+476,2025-05-12,South,Furniture,SMB,False,3,104.76,314.28,False
+926,2025-05-12,East,Furniture,SMB,True,7,218.08,1526.56,False
+1235,2025-05-13,West,Office Supplies,SMB,True,7,22.42,156.94,True
+451,2025-05-13,North,Furniture,SMB,False,8,239.38,1915.04,False
+1584,2025-05-13,East,Electronics,SMB,False,3,217.73,653.19,False
+1906,2025-05-13,East,Furniture,Enterprise,False,4,240.41,961.64,False
+1480,2025-05-13,South,Electronics,Mid-Market,False,5,116.86,584.3,False
+860,2025-05-13,North,Toys,SMB,True,9,477.54,4297.86,False
+647,2025-05-13,North,Furniture,SMB,True,9,245.5,2209.5,False
+567,2025-05-13,North,Furniture,Enterprise,False,3,178.01,534.03,False
+748,2025-05-13,West,Furniture,SMB,True,8,279.19,2233.52,False
+614,2025-05-13,East,Toys,SMB,False,1,296.46,296.46,False
+1839,2025-05-13,North,Electronics,Enterprise,False,8,302.26,2418.08,False
+125,2025-05-14,East,Toys,SMB,False,7,143.61,1005.27,False
+850,2025-05-14,East,Toys,SMB,False,1,181.59,181.59,False
+812,2025-05-14,North,Office Supplies,Mid-Market,False,5,112.08,560.4,False
+1763,2025-05-14,West,Apparel,Mid-Market,True,7,213.22,1492.54,False
+497,2025-05-14,North,Apparel,Mid-Market,True,3,447.35,1342.05,False
+740,2025-05-14,North,Toys,SMB,True,4,26.71,106.84,False
+1013,2025-05-14,South,Toys,SMB,True,6,224.02,1344.12,False
+1285,2025-05-14,West,Toys,SMB,True,2,204.15,408.3,False
+32,2025-05-15,East,Electronics,SMB,False,1,350.17,350.17,False
+82,2025-05-15,North,Electronics,SMB,True,5,347.54,1737.7,False
+1965,2025-05-15,South,Toys,SMB,False,1,248.31,248.31,False
+230,2025-05-15,East,Office Supplies,SMB,False,1,66.43,66.43,False
+836,2025-05-16,North,Office Supplies,SMB,True,7,36.39,254.73,False
+529,2025-05-16,North,Office Supplies,Enterprise,False,5,198.22,991.1,False
+1721,2025-05-16,East,Furniture,Enterprise,False,4,65.67,262.68,False
+1996,2025-05-16,South,Apparel,SMB,True,5,223.77,1118.85,False
+1601,2025-05-16,East,Toys,SMB,False,3,403.18,1209.54,False
+1535,2025-05-16,East,Apparel,Mid-Market,False,4,200.88,803.52,False
+1922,2025-05-16,North,Furniture,SMB,True,6,418.37,2510.22,False
+1687,2025-05-16,East,Apparel,Enterprise,True,2,314.64,629.28,True
+473,2025-05-16,West,Office Supplies,Enterprise,False,5,39.36,196.8,False
+73,2025-05-16,North,Office Supplies,SMB,True,3,345.39,1036.17,False
+780,2025-05-17,West,Apparel,SMB,False,1,133.77,133.77,False
+138,2025-05-17,East,Furniture,SMB,True,1,223.76,223.76,False
+875,2025-05-17,South,Furniture,Mid-Market,False,9,263.8,2374.2,True
+728,2025-05-17,West,Furniture,SMB,False,2,350.69,701.38,False
+1094,2025-05-17,North,Toys,Mid-Market,True,9,433.71,3903.39,False
+1193,2025-05-17,North,Toys,SMB,True,6,85.3,511.8,False
+1847,2025-05-18,North,Toys,Enterprise,False,6,115.12,690.72,True
+1662,2025-05-18,East,Furniture,Enterprise,True,8,153.28,1226.24,False
+1917,2025-05-18,East,Office Supplies,SMB,False,1,454.9,454.9,False
+766,2025-05-18,North,Electronics,Enterprise,True,6,110.62,663.72,False
+615,2025-05-18,East,Toys,SMB,False,2,494.45,988.9,False
+760,2025-05-19,South,Toys,Enterprise,False,5,66.49,332.45,True
+75,2025-05-19,West,Furniture,SMB,False,2,356.37,712.74,False
+1910,2025-05-19,North,Office Supplies,Enterprise,False,3,354.66,1063.98,False
+202,2025-05-20,South,Apparel,Enterprise,False,4,146.0,584.0,False
+1144,2025-05-20,East,Apparel,Enterprise,False,1,72.9,72.9,False
+1935,2025-05-20,North,Toys,Enterprise,False,7,174.66,1222.62,False
+754,2025-05-20,North,Toys,Enterprise,True,9,51.64,464.76,False
+1623,2025-05-21,North,Apparel,SMB,True,9,93.93,845.37,False
+1595,2025-05-21,West,Electronics,Mid-Market,False,3,275.96,827.88,False
+465,2025-05-21,North,Office Supplies,Enterprise,False,2,141.68,283.36,False
+910,2025-05-21,North,Electronics,SMB,False,5,296.03,1480.15,False
+854,2025-05-21,North,Apparel,Enterprise,True,5,221.31,1106.55,False
+487,2025-05-21,South,Office Supplies,Enterprise,False,9,440.68,3966.12,False
+1123,2025-05-21,North,Electronics,SMB,False,5,288.29,1441.45,False
+1792,2025-05-21,North,Electronics,Enterprise,True,5,488.17,2440.85,False
+1782,2025-05-21,East,Office Supplies,SMB,True,8,243.03,1944.24,False
+1739,2025-05-22,East,Electronics,Mid-Market,False,9,162.23,1460.07,False
+1540,2025-05-22,West,Electronics,SMB,True,3,265.34,796.02,False
+758,2025-05-22,North,Furniture,SMB,True,2,267.67,535.34,False
+1138,2025-05-22,North,Apparel,SMB,True,2,440.61,881.22,False
+291,2025-05-22,South,Furniture,SMB,True,5,231.49,1157.45,False
+1751,2025-05-23,West,Electronics,Enterprise,True,4,311.79,1247.16,False
+516,2025-05-23,East,Office Supplies,Enterprise,True,8,334.46,2675.68,False
+1082,2025-05-23,South,Office Supplies,SMB,False,3,73.01,219.03,False
+1659,2025-05-23,North,Toys,SMB,False,4,338.04,1352.16,False
+804,2025-05-23,West,Electronics,Enterprise,True,7,366.04,2562.28,False
+1566,2025-05-23,West,Office Supplies,SMB,False,9,97.52,877.68,False
+1570,2025-05-23,North,Toys,SMB,True,5,212.91,1064.55,False
+1379,2025-05-23,East,Office Supplies,Enterprise,True,1,48.64,48.64,False
+292,2025-05-23,West,Furniture,SMB,False,6,59.96,359.76,False
+112,2025-05-23,North,Toys,Mid-Market,False,8,18.56,148.48,False
+317,2025-05-24,South,Office Supplies,Enterprise,True,6,301.0,1806.0,False
+178,2025-05-24,East,Office Supplies,SMB,False,2,345.27,690.54,False
+197,2025-05-24,North,Furniture,SMB,True,3,214.56,643.68,False
+442,2025-05-24,North,Office Supplies,Mid-Market,True,2,149.98,299.96,False
+1602,2025-05-24,North,Furniture,Enterprise,False,4,338.5,1354.0,False
+915,2025-05-24,South,Office Supplies,Mid-Market,True,1,309.9,309.9,False
+348,2025-05-24,South,Electronics,Enterprise,False,1,353.35,353.35,False
+1998,2025-05-24,North,Apparel,Enterprise,False,6,69.35,416.1,True
+436,2025-05-24,East,Toys,SMB,False,9,68.01,612.09,False
+520,2025-05-24,West,Apparel,Mid-Market,True,2,262.02,524.04,False
+1723,2025-05-24,East,Office Supplies,Enterprise,False,9,73.25,659.25,False
+1179,2025-05-25,East,Toys,SMB,False,9,430.8,3877.2,False
+323,2025-05-25,West,Toys,Enterprise,True,2,189.5,379.0,False
+1720,2025-05-25,West,Toys,Mid-Market,True,9,473.32,4259.88,False
+698,2025-05-25,West,Electronics,SMB,False,8,170.38,1363.04,False
+1533,2025-05-25,North,Apparel,Enterprise,True,6,10.06,60.36,False
+474,2025-05-25,East,Furniture,SMB,False,9,19.2,172.8,False
+1319,2025-05-25,South,Toys,SMB,False,5,74.12,370.6,False
+806,2025-05-25,East,Electronics,SMB,False,3,207.76,623.28,False
+1465,2025-05-25,West,Electronics,Enterprise,False,5,458.82,2294.1,True
+537,2025-05-25,South,Furniture,Mid-Market,False,8,372.28,2978.24,False
+574,2025-05-25,East,Furniture,SMB,True,1,102.36,102.36,False
+706,2025-05-26,East,Office Supplies,Enterprise,True,9,171.33,1541.97,False
+456,2025-05-26,South,Electronics,Mid-Market,False,6,197.24,1183.44,False
+1140,2025-05-26,West,Apparel,SMB,False,9,275.12,2476.08,False
+1795,2025-05-26,East,Apparel,SMB,False,1,456.78,456.78,False
+1001,2025-05-26,North,Furniture,SMB,False,8,328.79,2630.32,False
+1669,2025-05-26,North,Furniture,SMB,True,5,471.56,2357.8,False
+1647,2025-05-26,North,Toys,Enterprise,False,2,437.22,874.44,False
+1605,2025-05-26,East,Office Supplies,SMB,False,8,176.15,1409.2,False
+554,2025-05-26,South,Toys,SMB,False,5,448.97,2244.85,False
+1539,2025-05-27,North,Toys,SMB,False,5,348.63,1743.15,False
+1307,2025-05-27,East,Electronics,SMB,True,4,294.81,1179.24,False
+1221,2025-05-27,West,Apparel,Enterprise,False,1,113.96,113.96,False
+208,2025-05-27,South,Furniture,Enterprise,False,1,240.21,240.21,False
+370,2025-05-27,East,Office Supplies,Enterprise,True,7,153.74,1076.18,False
+245,2025-05-27,East,Furniture,Mid-Market,False,1,180.34,180.34,False
+186,2025-05-27,North,Furniture,Mid-Market,False,1,444.58,444.58,False
+322,2025-05-27,West,Toys,Enterprise,True,8,364.86,2918.88,False
+511,2025-05-27,South,Apparel,SMB,False,8,46.45,371.6,False
+1407,2025-05-27,East,Toys,SMB,True,1,462.87,462.87,False
+959,2025-05-27,East,Apparel,SMB,False,5,390.38,1951.9,False
+1157,2025-05-28,East,Office Supplies,SMB,False,8,292.52,2340.16,False
+187,2025-05-28,East,Apparel,SMB,False,7,218.85,1531.95,False
+903,2025-05-28,South,Electronics,SMB,False,6,45.73,274.38,False
+1045,2025-05-28,South,Apparel,SMB,False,2,491.12,982.24,False
+184,2025-05-28,East,Office Supplies,Enterprise,True,8,481.85,3854.8,False
+1363,2025-05-28,North,Furniture,SMB,True,4,371.71,1486.84,False
+1907,2025-05-28,East,Apparel,SMB,True,1,269.81,269.81,False
+492,2025-05-28,North,Office Supplies,Enterprise,True,5,299.91,1499.55,False
+846,2025-05-28,East,Toys,SMB,False,7,179.18,1254.26,False
+1696,2025-05-29,North,Office Supplies,SMB,False,7,416.45,2915.15,False
+1028,2025-05-29,East,Electronics,Mid-Market,False,3,312.79,938.37,False
+874,2025-05-29,West,Toys,SMB,True,1,173.76,173.76,False
+503,2025-05-29,South,Toys,Enterprise,False,1,379.69,379.69,False
+1846,2025-05-29,West,Apparel,Enterprise,True,8,380.04,3040.32,True
+1657,2025-05-29,North,Electronics,SMB,True,3,397.5,1192.5,False
+1732,2025-05-29,South,Office Supplies,Mid-Market,False,9,41.98,377.82,False
+1811,2025-05-29,North,Toys,Enterprise,False,4,91.25,365.0,False
+1962,2025-05-29,West,Apparel,Mid-Market,False,7,423.77,2966.39,False
+1933,2025-05-29,West,Furniture,SMB,False,3,435.3,1305.9,False
+1961,2025-05-29,West,Electronics,SMB,True,2,116.14,232.28,True
+1074,2025-05-29,North,Toys,Enterprise,False,4,324.32,1297.28,False
+1416,2025-05-30,North,Electronics,Mid-Market,False,8,62.67,501.36,False
+721,2025-05-30,East,Office Supplies,SMB,True,8,342.81,2742.48,False
+1712,2025-05-30,East,Office Supplies,Mid-Market,False,4,34.4,137.6,False
+301,2025-05-30,West,Toys,Enterprise,False,4,358.91,1435.64,False
+897,2025-05-30,South,Apparel,Enterprise,True,7,479.19,3354.33,False
+1972,2025-05-30,West,Toys,SMB,True,2,68.1,136.2,False
+14,2025-05-30,South,Toys,SMB,False,6,132.94,797.64,False
+1658,2025-05-30,West,Office Supplies,SMB,False,4,295.17,1180.68,False
+275,2025-05-31,East,Office Supplies,SMB,False,9,190.27,1712.43,False
+1801,2025-05-31,South,Electronics,Mid-Market,False,2,462.31,924.62,False
+1966,2025-05-31,East,Office Supplies,Enterprise,True,1,112.78,112.78,False
+441,2025-05-31,West,Electronics,Mid-Market,True,8,94.88,759.04,False
+1519,2025-05-31,East,Electronics,SMB,True,5,89.18,445.9,False
+193,2025-05-31,East,Furniture,Enterprise,False,5,480.29,2401.45,False
+957,2025-05-31,South,Office Supplies,Mid-Market,False,2,467.57,935.14,False
+629,2025-05-31,East,Toys,SMB,True,7,77.84,544.88,False
+1740,2025-05-31,East,Toys,SMB,True,4,391.43,1565.72,False
+414,2025-05-31,South,Furniture,Enterprise,False,3,115.73,347.19,False
+12,2025-06-01,South,Apparel,Enterprise,True,8,277.47,2219.76,False
+1431,2025-06-01,East,Toys,Mid-Market,False,5,72.75,363.75,False
+1641,2025-06-01,North,Furniture,SMB,False,9,285.22,2566.98,False
+1635,2025-06-01,North,Toys,SMB,False,7,45.22,316.54,False
+413,2025-06-01,South,Apparel,Enterprise,False,7,457.76,3204.32,False
+727,2025-06-01,North,Toys,SMB,False,8,23.88,191.04,False
+378,2025-06-01,West,Office Supplies,SMB,False,8,237.39,1899.12,False
+211,2025-06-01,South,Electronics,SMB,False,3,282.79,848.37,False
+143,2025-06-01,East,Toys,SMB,False,2,495.39,990.78,False
+1103,2025-06-01,North,Apparel,SMB,False,6,278.06,1668.36,False
+890,2025-06-01,East,Apparel,Enterprise,False,5,59.43,297.15,True
+1039,2025-06-01,West,Furniture,SMB,False,9,196.04,1764.36,False
+1904,2025-06-01,North,Office Supplies,Enterprise,False,5,50.63,253.15,False
+1946,2025-06-02,East,Apparel,Enterprise,False,8,165.09,1320.72,True
+1151,2025-06-02,North,Apparel,Mid-Market,False,3,271.11,813.33,False
+296,2025-06-02,East,Office Supplies,Enterprise,False,2,310.27,620.54,False
+1331,2025-06-02,West,Furniture,SMB,True,8,51.88,415.04,False
+1582,2025-06-02,West,Office Supplies,SMB,False,9,48.24,434.16,False
+805,2025-06-02,North,Apparel,Enterprise,False,4,259.77,1039.08,False
+1008,2025-06-02,South,Toys,Enterprise,True,7,478.8,3351.6,False
+223,2025-06-02,South,Furniture,Enterprise,False,1,413.16,413.16,False
+1141,2025-06-02,East,Toys,SMB,False,3,480.76,1442.28,False
+678,2025-06-03,East,Electronics,SMB,False,1,429.76,429.76,False
+1581,2025-06-03,South,Apparel,SMB,False,1,473.92,473.92,False
+898,2025-06-03,South,Apparel,Enterprise,True,1,391.58,391.58,True
+878,2025-06-03,South,Electronics,Enterprise,False,3,293.56,880.68,False
+586,2025-06-03,East,Electronics,SMB,False,3,436.66,1309.98,False
+1748,2025-06-03,North,Toys,SMB,True,7,495.02,3465.14,False
+347,2025-06-03,West,Electronics,SMB,True,1,84.03,84.03,False
+1049,2025-06-03,North,Electronics,Enterprise,True,8,477.64,3821.12,False
+995,2025-06-03,North,Electronics,SMB,False,9,441.15,3970.35,False
+1372,2025-06-03,East,Furniture,SMB,False,6,286.91,1721.46,False
+1638,2025-06-03,South,Furniture,Enterprise,True,5,378.03,1890.15,False
+1232,2025-06-04,South,Furniture,Enterprise,False,4,197.95,791.8,False
+1834,2025-06-04,West,Apparel,Mid-Market,False,1,155.49,155.49,True
+277,2025-06-04,West,Apparel,Enterprise,False,4,133.7,534.8,True
+636,2025-06-04,East,Office Supplies,Enterprise,False,7,479.64,3357.48,False
+1252,2025-06-04,North,Office Supplies,Enterprise,False,6,159.97,959.82,False
+1600,2025-06-05,East,Office Supplies,SMB,False,2,251.04,502.08,False
+899,2025-06-05,East,Office Supplies,Enterprise,True,4,370.99,1483.96,False
+524,2025-06-05,North,Furniture,SMB,True,3,18.95,56.85,False
+1812,2025-06-05,East,Toys,SMB,False,3,85.45,256.35,False
+1492,2025-06-05,East,Furniture,Mid-Market,True,6,286.04,1716.24,False
+818,2025-06-06,South,Toys,Enterprise,True,5,285.15,1425.75,False
+820,2025-06-06,North,Electronics,Enterprise,False,5,486.52,2432.6,False
+835,2025-06-06,East,Furniture,SMB,True,8,405.7,3245.6,False
+1525,2025-06-06,West,Electronics,Mid-Market,False,4,104.88,419.52,True
+838,2025-06-06,North,Apparel,SMB,True,5,225.86,1129.3,False
+68,2025-06-06,East,Electronics,Mid-Market,True,7,74.02,518.14,False
+1598,2025-06-06,East,Apparel,Enterprise,False,4,244.46,977.84,False
+1294,2025-06-06,West,Furniture,Enterprise,True,7,155.17,1086.19,False
+1760,2025-06-07,East,Office Supplies,Enterprise,False,9,370.24,3332.16,False
+978,2025-06-07,East,Electronics,Mid-Market,False,6,135.93,815.58,False
+1762,2025-06-07,East,Apparel,SMB,True,6,424.86,2549.16,True
+1139,2025-06-07,South,Electronics,SMB,False,8,344.12,2752.96,False
+253,2025-06-07,North,Office Supplies,Enterprise,False,8,261.9,2095.2,False
+237,2025-06-07,South,Furniture,SMB,False,3,132.34,397.02,False
+1242,2025-06-07,South,Apparel,Enterprise,False,8,352.86,2822.88,False
+1716,2025-06-07,North,Furniture,SMB,True,6,298.8,1792.8,False
+321,2025-06-07,East,Furniture,SMB,False,3,265.06,795.18,False
+914,2025-06-07,East,Office Supplies,SMB,False,5,403.52,2017.6,False
+1604,2025-06-07,West,Office Supplies,SMB,False,4,179.76,719.04,False
+1556,2025-06-08,South,Office Supplies,Enterprise,False,3,300.46,901.38,False
+1102,2025-06-08,South,Office Supplies,SMB,True,6,120.65,723.9,False
+830,2025-06-08,South,Electronics,SMB,False,4,25.86,103.44,False
+1426,2025-06-08,West,Furniture,Mid-Market,True,1,363.39,363.39,False
+1614,2025-06-08,West,Office Supplies,SMB,False,3,78.45,235.35,False
+117,2025-06-09,West,Office Supplies,SMB,False,2,283.37,566.74,False
+1796,2025-06-09,North,Furniture,SMB,True,7,95.67,669.69,False
+204,2025-06-09,South,Apparel,Mid-Market,True,9,221.07,1989.63,False
+1695,2025-06-09,East,Office Supplies,SMB,False,6,64.14,384.84,False
+1660,2025-06-09,North,Electronics,SMB,False,7,169.66,1187.62,False
+1855,2025-06-09,North,Apparel,Mid-Market,True,1,287.12,287.12,False
+377,2025-06-09,North,Toys,SMB,False,2,145.75,291.5,False
+1359,2025-06-09,North,Electronics,SMB,True,7,390.89,2736.23,False
+168,2025-06-09,North,Office Supplies,SMB,False,3,301.33,903.99,False
+144,2025-06-09,North,Office Supplies,SMB,True,1,228.1,228.1,False
+1939,2025-06-09,West,Office Supplies,SMB,True,8,493.38,3947.04,False
+1241,2025-06-09,South,Toys,SMB,False,4,262.95,1051.8,False
+638,2025-06-09,South,Furniture,SMB,False,4,226.56,906.24,False
+1182,2025-06-09,East,Furniture,SMB,False,8,40.88,327.04,False
+501,2025-06-09,North,Furniture,SMB,False,4,27.98,111.92,False
+1655,2025-06-10,West,Electronics,Enterprise,False,6,148.9,893.4,False
+17,2025-06-10,West,Office Supplies,SMB,False,7,168.69,1180.83,False
+1548,2025-06-10,North,Apparel,Enterprise,True,6,197.04,1182.24,False
+894,2025-06-10,East,Apparel,SMB,True,7,112.45,787.15,False
+1504,2025-06-10,South,Furniture,Mid-Market,False,5,366.14,1830.7,False
+228,2025-06-10,West,Toys,SMB,True,2,393.94,787.88,False
+762,2025-06-10,South,Office Supplies,SMB,False,4,412.36,1649.44,False
+956,2025-06-10,North,Apparel,Mid-Market,False,8,432.29,3458.32,False
+1114,2025-06-10,South,Toys,Mid-Market,False,7,48.13,336.91,True
+1364,2025-06-10,West,Office Supplies,Mid-Market,True,7,356.0,2492.0,False
+214,2025-06-10,West,Electronics,Mid-Market,False,6,146.87,881.22,False
+266,2025-06-10,North,Electronics,SMB,True,7,195.29,1367.03,False
+1735,2025-06-10,North,Furniture,Enterprise,False,7,47.57,332.99,False
+931,2025-06-11,West,Furniture,Enterprise,False,6,424.86,2549.16,False
+1311,2025-06-11,South,Apparel,Enterprise,False,4,197.43,789.72,True
+53,2025-06-11,North,Apparel,Enterprise,False,4,365.02,1460.08,True
+588,2025-06-11,South,Toys,SMB,True,6,423.39,2540.34,False
+1468,2025-06-12,East,Office Supplies,SMB,True,1,267.28,267.28,False
+225,2025-06-12,North,Furniture,Enterprise,True,9,119.26,1073.34,False
+1312,2025-06-12,West,Electronics,SMB,True,7,211.47,1480.29,False
+1768,2025-06-12,East,Electronics,SMB,False,6,145.31,871.86,False
+77,2025-06-12,East,Apparel,Mid-Market,False,5,82.69,413.45,False
+452,2025-06-12,East,Office Supplies,Enterprise,True,2,492.39,984.78,False
+1258,2025-06-12,West,Furniture,Enterprise,True,8,132.75,1062.0,False
+380,2025-06-12,East,Office Supplies,Enterprise,True,7,296.04,2072.28,False
+1471,2025-06-13,South,Furniture,Enterprise,False,1,310.38,310.38,True
+1776,2025-06-13,East,Electronics,Mid-Market,False,7,221.96,1553.72,False
+1685,2025-06-13,North,Electronics,Enterprise,False,4,150.09,600.36,False
+509,2025-06-13,West,Office Supplies,Mid-Market,False,7,472.69,3308.83,False
+406,2025-06-13,East,Apparel,Mid-Market,False,3,36.64,109.92,False
+1031,2025-06-13,East,Office Supplies,Enterprise,False,5,115.83,579.15,False
+1856,2025-06-13,West,Apparel,Enterprise,False,1,419.44,419.44,False
+1279,2025-06-13,North,Furniture,SMB,True,9,125.52,1129.68,False
+1648,2025-06-13,North,Apparel,SMB,True,2,203.66,407.32,False
+1934,2025-06-13,East,Furniture,Mid-Market,False,6,465.38,2792.28,False
+527,2025-06-13,West,Apparel,Enterprise,False,4,30.81,123.24,False
+571,2025-06-14,West,Electronics,SMB,False,1,220.79,220.79,False
+951,2025-06-14,South,Apparel,SMB,True,5,256.26,1281.3,False
+789,2025-06-14,North,Toys,SMB,False,6,112.33,673.98,False
+1007,2025-06-14,West,Electronics,Enterprise,False,3,290.08,870.24,False
+472,2025-06-14,West,Toys,Enterprise,False,3,382.79,1148.37,False
+139,2025-06-14,East,Toys,Enterprise,False,8,490.61,3924.88,False
+1489,2025-06-14,South,Furniture,Enterprise,False,9,50.9,458.1,False
+925,2025-06-15,South,Electronics,Enterprise,False,6,99.95,599.7,False
+1758,2025-06-15,East,Furniture,Mid-Market,False,4,312.63,1250.52,False
+1375,2025-06-15,West,Toys,SMB,False,7,57.32,401.24,False
+1338,2025-06-15,East,Office Supplies,Mid-Market,True,9,271.55,2443.95,False
+608,2025-06-15,West,Apparel,Enterprise,True,7,398.53,2789.71,False
+1347,2025-06-15,North,Furniture,Mid-Market,False,4,242.11,968.44,False
+34,2025-06-16,North,Office Supplies,SMB,True,3,320.53,961.59,False
+1672,2025-06-16,South,Electronics,Mid-Market,False,2,358.69,717.38,False
+1645,2025-06-16,North,Furniture,Enterprise,False,7,218.41,1528.87,False
+480,2025-06-16,West,Electronics,Enterprise,True,4,73.69,294.76,False
+1680,2025-06-16,South,Electronics,Mid-Market,False,9,286.85,2581.65,False
+466,2025-06-17,North,Toys,Mid-Market,False,2,329.51,659.02,False
+1222,2025-06-17,North,Office Supplies,SMB,False,4,108.95,435.8,False
+1015,2025-06-17,South,Apparel,SMB,False,4,228.77,915.08,False
+386,2025-06-17,West,Toys,Mid-Market,False,5,429.66,2148.3,False
+769,2025-06-17,East,Furniture,Mid-Market,False,9,458.64,4127.76,False
+1549,2025-06-18,East,Furniture,Mid-Market,True,5,193.67,968.35,False
+1927,2025-06-18,East,Electronics,Enterprise,False,5,317.12,1585.6,False
+227,2025-06-18,East,Apparel,Enterprise,True,3,494.12,1482.36,True
+1226,2025-06-18,North,Electronics,Enterprise,False,5,206.46,1032.3,False
+122,2025-06-19,North,Office Supplies,Enterprise,False,8,41.92,335.36,False
+467,2025-06-19,North,Toys,Mid-Market,False,4,75.98,303.92,False
+283,2025-06-19,South,Toys,Enterprise,False,7,393.72,2756.04,True
+1230,2025-06-19,West,Furniture,SMB,False,3,399.77,1199.31,False
+304,2025-06-19,East,Furniture,Mid-Market,True,1,382.92,382.92,False
+644,2025-06-19,West,Electronics,SMB,True,3,399.89,1199.67,False
+1196,2025-06-19,East,Apparel,Mid-Market,True,6,292.57,1755.42,True
+23,2025-06-19,West,Electronics,Mid-Market,True,8,335.53,2684.24,False
+1633,2025-06-19,North,Electronics,SMB,False,5,399.42,1997.1,False
+1118,2025-06-19,West,Furniture,SMB,True,2,216.09,432.18,False
+1983,2025-06-20,North,Apparel,SMB,True,7,365.97,2561.79,False
+859,2025-06-20,South,Toys,Enterprise,True,2,484.43,968.86,False
+1108,2025-06-20,West,Electronics,SMB,True,9,397.21,3574.89,False
+1482,2025-06-20,South,Furniture,Mid-Market,False,6,284.21,1705.26,True
+113,2025-06-20,North,Apparel,Mid-Market,False,8,104.26,834.08,True
+142,2025-06-21,North,Office Supplies,SMB,True,1,162.71,162.71,False
+1620,2025-06-21,East,Furniture,Mid-Market,True,2,218.5,437.0,False
+166,2025-06-21,North,Office Supplies,Enterprise,False,3,344.71,1034.13,False
+1063,2025-06-21,South,Office Supplies,Mid-Market,True,6,430.03,2580.18,False
+90,2025-06-21,West,Electronics,Enterprise,False,1,459.27,459.27,False
+767,2025-06-21,West,Office Supplies,Enterprise,True,3,139.48,418.44,False
+1950,2025-06-21,North,Toys,Enterprise,True,1,184.63,184.63,False
+1706,2025-06-21,East,Toys,Enterprise,True,4,68.77,275.08,False
+251,2025-06-21,West,Toys,SMB,True,6,498.8,2992.8,False
+840,2025-06-22,East,Office Supplies,SMB,True,7,375.27,2626.89,False
+486,2025-06-22,West,Apparel,SMB,False,3,144.48,433.44,False
+747,2025-06-22,North,Apparel,SMB,False,6,493.3,2959.8,False
+1621,2025-06-22,West,Toys,Mid-Market,True,3,40.28,120.84,False
+579,2025-06-22,East,Office Supplies,SMB,True,5,439.96,2199.8,False
+1410,2025-06-22,West,Office Supplies,SMB,True,7,206.66,1446.62,False
+288,2025-06-22,West,Furniture,Enterprise,True,6,277.93,1667.58,False
+1019,2025-06-22,East,Electronics,SMB,False,6,327.7,1966.2,False
+502,2025-06-22,South,Electronics,SMB,True,1,220.37,220.37,False
+500,2025-06-22,South,Electronics,Mid-Market,False,9,360.46,3244.14,False
+1854,2025-06-22,North,Electronics,SMB,False,2,193.75,387.5,False
+1787,2025-06-22,West,Toys,SMB,True,2,189.2,378.4,False
+1895,2025-06-22,West,Electronics,SMB,False,9,274.21,2467.89,False
+273,2025-06-23,East,Electronics,Mid-Market,False,8,403.97,3231.76,True
+464,2025-06-23,North,Apparel,Enterprise,False,8,198.13,1585.04,False
+1951,2025-06-23,East,Electronics,SMB,False,6,295.07,1770.42,False
+1324,2025-06-23,South,Furniture,Mid-Market,True,9,256.83,2311.47,False
+1377,2025-06-23,East,Furniture,SMB,True,6,244.72,1468.32,False
+1487,2025-06-24,East,Furniture,SMB,False,9,369.73,3327.57,False
+1528,2025-06-24,South,Office Supplies,Enterprise,False,2,310.92,621.84,False
+1297,2025-06-24,South,Electronics,SMB,False,5,160.13,800.65,False
+920,2025-06-24,South,Toys,SMB,False,9,61.13,550.17,False
+27,2025-06-24,South,Apparel,SMB,False,1,31.66,31.66,False
+1651,2025-06-24,South,Toys,SMB,False,2,106.33,212.66,False
+1277,2025-06-24,South,Toys,SMB,False,5,490.47,2452.35,False
+281,2025-06-25,East,Toys,Mid-Market,False,3,56.67,170.01,False
+1095,2025-06-25,East,Furniture,Enterprise,True,2,42.86,85.72,False
+234,2025-06-25,East,Electronics,SMB,True,3,275.68,827.04,False
+1208,2025-06-25,East,Toys,SMB,False,2,367.66,735.32,False
+1551,2025-06-25,West,Furniture,SMB,False,8,221.05,1768.4,False
+1205,2025-06-25,North,Apparel,Enterprise,False,5,284.28,1421.4,False
+557,2025-06-26,West,Electronics,SMB,False,3,88.59,265.77,False
+1136,2025-06-26,East,Toys,SMB,False,3,17.73,53.19,False
+561,2025-06-26,North,Office Supplies,SMB,False,7,157.09,1099.63,False
+1433,2025-06-26,North,Furniture,SMB,False,7,444.98,3114.86,False
+895,2025-06-26,North,Office Supplies,SMB,True,8,232.05,1856.4,False
+428,2025-06-26,South,Electronics,SMB,False,5,293.57,1467.85,False
+1171,2025-06-26,North,Electronics,SMB,False,3,353.48,1060.44,False
+902,2025-06-26,South,Office Supplies,Mid-Market,False,1,462.41,462.41,False
+409,2025-06-26,North,Apparel,SMB,False,1,408.77,408.77,False
+379,2025-06-27,South,Electronics,SMB,True,5,230.51,1152.55,False
+1806,2025-06-27,North,Office Supplies,Mid-Market,False,7,355.46,2488.22,False
+531,2025-06-27,North,Office Supplies,Mid-Market,True,4,159.57,638.28,False
+1389,2025-06-27,West,Apparel,SMB,False,7,360.2,2521.4,False
+763,2025-06-27,North,Toys,SMB,False,8,120.13,961.04,False
+1177,2025-06-27,North,Electronics,SMB,False,8,282.65,2261.2,False
+1518,2025-06-27,West,Office Supplies,Enterprise,True,6,161.55,969.3,False
+934,2025-06-27,East,Office Supplies,Mid-Market,False,3,224.32,672.96,False
+1827,2025-06-27,South,Furniture,SMB,True,5,142.51,712.55,False
+1505,2025-06-28,North,Electronics,Enterprise,False,6,398.72,2392.32,False
+1354,2025-06-28,East,Toys,SMB,True,8,72.01,576.08,False
+888,2025-06-28,North,Office Supplies,Mid-Market,True,1,404.22,404.22,False
+382,2025-06-28,East,Apparel,SMB,False,9,48.02,432.18,False
+800,2025-06-28,West,Furniture,SMB,True,1,63.01,63.01,False
+814,2025-06-28,North,Furniture,Enterprise,False,4,102.9,411.6,False
+103,2025-06-28,North,Toys,Mid-Market,False,3,208.0,624.0,False
+669,2025-06-29,North,Electronics,SMB,False,2,129.01,258.02,True
+303,2025-06-29,West,Office Supplies,SMB,True,3,237.28,711.84,False
+1746,2025-06-29,East,Office Supplies,SMB,False,7,86.1,602.7,False
+367,2025-06-29,North,Apparel,SMB,False,4,160.43,641.72,True
+892,2025-06-29,South,Apparel,SMB,False,9,231.57,2084.13,False
+147,2025-06-29,West,Furniture,SMB,True,9,369.18,3322.62,False
+718,2025-06-29,North,Furniture,SMB,False,2,313.15,626.3,False
+1327,2025-06-30,South,Office Supplies,SMB,True,4,58.35,233.4,False
+1229,2025-06-30,North,Furniture,SMB,False,6,232.91,1397.46,False
+1853,2025-06-30,North,Furniture,Mid-Market,True,3,385.45,1156.35,False
+1508,2025-06-30,South,Office Supplies,Mid-Market,False,2,337.01,674.02,False
+1026,2025-06-30,North,Furniture,Enterprise,True,2,443.52,887.04,False
+259,2025-06-30,East,Furniture,SMB,False,8,256.36,2050.88,False
+446,2025-06-30,West,Furniture,Enterprise,False,6,92.36,554.16,False
+1938,2025-06-30,North,Furniture,SMB,True,5,203.23,1016.15,False
+479,2025-07-01,West,Electronics,Mid-Market,False,4,139.59,558.36,False
+871,2025-07-01,North,Furniture,Enterprise,False,2,156.87,258.8355,False
+889,2025-07-01,South,Furniture,SMB,False,8,311.6,2492.8,False
+952,2025-07-01,South,Apparel,Enterprise,False,1,96.06,52.833000000000006,False
+1413,2025-07-02,West,Electronics,SMB,False,2,223.19,446.38,False
+1860,2025-07-02,North,Electronics,Mid-Market,False,9,25.71,231.39,False
+419,2025-07-02,West,Furniture,SMB,True,6,47.75,286.5,False
+1109,2025-07-02,West,Office Supplies,Enterprise,True,5,243.87,1073.028,False
+1945,2025-07-02,East,Furniture,SMB,False,2,49.7,99.4,False
+1840,2025-07-02,North,Toys,SMB,False,4,144.45,577.8,False
+630,2025-07-02,East,Toys,SMB,False,3,68.69,206.07,False
+833,2025-07-03,South,Toys,SMB,False,4,179.85,719.4,True
+1985,2025-07-03,East,Electronics,Mid-Market,False,3,222.17,666.51,True
+172,2025-07-03,East,Office Supplies,Enterprise,False,1,135.84,149.424,False
+1517,2025-07-03,West,Furniture,Mid-Market,False,3,136.79,410.37,False
+616,2025-07-03,West,Apparel,Mid-Market,False,1,304.97,304.97,False
+633,2025-07-03,West,Electronics,Mid-Market,True,4,240.94,963.76,False
+1514,2025-07-04,West,Toys,SMB,False,5,222.34,1111.7,False
+350,2025-07-04,West,Office Supplies,SMB,False,9,462.11,4158.99,False
+1130,2025-07-04,West,Furniture,SMB,False,3,17.21,51.63,False
+448,2025-07-05,East,Office Supplies,Enterprise,True,4,98.05,377.49250000000006,False
+1214,2025-07-05,West,Toys,SMB,True,3,392.92,1178.76,True
+1442,2025-07-05,North,Office Supplies,Mid-Market,False,5,493.78,2468.9,False
+1997,2025-07-05,West,Apparel,Enterprise,True,3,320.01,880.0275,False
+297,2025-07-05,South,Toys,Mid-Market,False,4,31.07,124.28,False
+530,2025-07-05,North,Office Supplies,SMB,False,9,117.44,1056.96,False
+426,2025-07-06,East,Toys,SMB,False,7,94.43,661.01,False
+680,2025-07-06,West,Furniture,Enterprise,False,2,263.82,580.404,False
+182,2025-07-06,South,Electronics,SMB,True,5,406.0,2030.0,False
+118,2025-07-06,South,Toys,SMB,True,1,134.4,134.4,False
+155,2025-07-06,South,Apparel,SMB,True,3,425.31,1275.93,False
+1145,2025-07-06,East,Toys,Enterprise,True,4,197.1,650.43,False
+1033,2025-07-06,West,Electronics,Mid-Market,True,5,326.4,1632.0,False
+24,2025-07-07,South,Toys,Enterprise,False,3,130.46,358.765,False
+262,2025-07-07,West,Office Supplies,SMB,False,6,466.25,2797.5,False
+1857,2025-07-07,East,Electronics,Mid-Market,False,4,18.92,75.68,False
+1257,2025-07-07,South,Toys,SMB,False,8,239.43,1915.44,True
+1105,2025-07-07,East,Electronics,SMB,False,8,253.39,2027.12,False
+962,2025-07-07,East,Toys,Enterprise,True,4,314.46,1037.718,False
+1399,2025-07-07,South,Toys,Enterprise,False,1,429.1,236.00500000000002,False
+66,2025-07-07,West,Furniture,Enterprise,False,3,368.29,1012.7975000000001,False
+1674,2025-07-07,South,Apparel,SMB,False,2,131.77,263.54,False
+1233,2025-07-07,North,Toys,Enterprise,False,2,17.7,29.205000000000002,False
+906,2025-07-08,North,Electronics,Enterprise,True,3,168.77,464.11750000000006,False
+5,2025-07-08,West,Furniture,Enterprise,False,1,451.32,248.22600000000003,False
+1984,2025-07-08,North,Electronics,Mid-Market,False,3,111.66,334.98,True
+342,2025-07-08,North,Furniture,Mid-Market,False,4,167.23,668.92,True
+1020,2025-07-09,North,Apparel,Mid-Market,False,9,289.21,2602.89,False
+1930,2025-07-09,West,Apparel,SMB,True,8,101.55,812.4,False
+1747,2025-07-09,North,Apparel,SMB,True,4,26.6,106.4,False
+59,2025-07-09,South,Toys,Mid-Market,False,7,241.98,1693.86,False
+299,2025-07-09,West,Electronics,Mid-Market,False,3,433.94,1301.82,False
+131,2025-07-09,North,Toys,SMB,False,5,163.57,817.85,False
+1813,2025-07-09,East,Electronics,SMB,False,2,356.66,713.32,False
+415,2025-07-09,North,Apparel,Mid-Market,False,9,31.36,282.24,False
+494,2025-07-09,South,Office Supplies,Enterprise,True,5,497.27,2187.9880000000003,False
+26,2025-07-09,North,Office Supplies,Enterprise,False,4,223.78,738.474,False
+1987,2025-07-10,West,Electronics,SMB,False,6,143.25,859.5,True
+1231,2025-07-10,North,Office Supplies,Enterprise,False,4,200.11,770.4235000000001,False
+264,2025-07-10,South,Office Supplies,Enterprise,False,2,204.5,337.425,False
+495,2025-07-10,East,Electronics,SMB,False,1,28.77,28.77,False
+1858,2025-07-10,South,Electronics,Enterprise,True,2,403.07,665.0655,False
+50,2025-07-10,North,Electronics,SMB,False,9,180.36,1623.24,False
+1830,2025-07-10,North,Electronics,SMB,False,2,184.62,369.24,False
+1276,2025-07-11,East,Electronics,Mid-Market,False,3,415.96,1247.88,False
+688,2025-07-11,South,Furniture,SMB,False,1,355.15,355.15,False
+1877,2025-07-11,East,Apparel,SMB,False,6,434.73,2608.38,True
+407,2025-07-11,South,Apparel,Mid-Market,False,4,92.58,370.32,False
+1268,2025-07-11,South,Furniture,SMB,False,5,437.48,2187.4,False
+248,2025-07-11,West,Electronics,Enterprise,False,2,64.7,142.34000000000003,False
+536,2025-07-11,North,Electronics,SMB,True,2,368.73,737.46,False
+16,2025-07-11,West,Toys,Enterprise,False,1,111.94,61.567,False
+343,2025-07-11,East,Toys,SMB,False,9,244.98,2204.82,False
+603,2025-07-11,South,Apparel,SMB,False,5,477.52,2387.6,False
+1545,2025-07-11,East,Toys,SMB,False,2,105.29,210.58,False
+1271,2025-07-12,South,Toys,SMB,False,6,177.44,1064.64,False
+1529,2025-07-12,North,Furniture,Enterprise,False,2,111.11,183.3315,False
+1025,2025-07-12,North,Toys,SMB,True,3,48.24,144.72,False
+1142,2025-07-12,East,Toys,SMB,False,3,68.78,206.34,False
+744,2025-07-13,West,Office Supplies,Enterprise,False,5,208.88,919.072,False
+224,2025-07-13,East,Apparel,Mid-Market,True,4,274.74,1098.96,False
+921,2025-07-13,West,Apparel,SMB,False,1,46.83,46.83,False
+469,2025-07-13,East,Apparel,Mid-Market,True,9,386.36,3477.24,True
+1374,2025-07-13,East,Toys,SMB,False,9,215.63,1940.67,False
+634,2025-07-14,South,Electronics,SMB,False,3,68.25,204.75,False
+1194,2025-07-14,West,Furniture,SMB,False,8,311.98,2495.84,False
+231,2025-07-14,West,Apparel,SMB,True,8,214.73,1717.84,False
+1473,2025-07-14,West,Apparel,Mid-Market,False,5,20.16,100.8,False
+635,2025-07-14,East,Toys,SMB,True,5,426.34,2131.7,False
+1301,2025-07-14,North,Furniture,SMB,True,8,214.67,1717.36,False
+968,2025-07-14,North,Apparel,SMB,True,1,342.16,342.16,False
+1862,2025-07-15,West,Office Supplies,SMB,True,9,178.81,1609.29,False
+401,2025-07-15,South,Apparel,SMB,False,4,196.82,787.28,False
+1749,2025-07-15,North,Electronics,Enterprise,True,1,246.3,270.93,False
+1689,2025-07-15,North,Electronics,Mid-Market,False,5,269.79,1348.95,False
+824,2025-07-15,East,Electronics,SMB,False,7,243.59,1705.13,False
+314,2025-07-15,West,Electronics,SMB,True,2,32.78,65.56,False
+1265,2025-07-15,East,Furniture,SMB,False,2,494.53,989.06,False
+547,2025-07-16,East,Furniture,Enterprise,False,5,43.28,214.23600000000002,False
+566,2025-07-16,South,Apparel,Enterprise,False,4,118.78,391.974,False
+965,2025-07-16,West,Office Supplies,SMB,False,1,250.94,250.94,False
+722,2025-07-17,West,Office Supplies,Enterprise,False,1,437.89,481.67900000000003,False
+893,2025-07-17,West,Furniture,SMB,False,2,389.53,779.06,False
+811,2025-07-17,South,Furniture,SMB,True,2,114.08,228.16,False
+1147,2025-07-17,West,Office Supplies,SMB,False,4,371.17,1484.68,False
+176,2025-07-17,South,Office Supplies,SMB,False,1,301.33,301.33,False
+1501,2025-07-17,East,Electronics,SMB,False,5,407.81,2039.05,False
+169,2025-07-17,North,Furniture,SMB,True,6,152.52,915.12,False
+137,2025-07-17,West,Toys,SMB,False,8,303.09,2424.72,False
+1077,2025-07-17,North,Furniture,Enterprise,True,2,293.37,645.4140000000001,False
+1326,2025-07-18,East,Office Supplies,Mid-Market,False,9,190.97,1718.73,False
+188,2025-07-18,North,Electronics,SMB,False,5,172.82,864.1,False
+1569,2025-07-18,East,Toys,Mid-Market,True,5,108.16,540.8,False
+1088,2025-07-18,North,Office Supplies,SMB,False,7,349.46,2446.22,False
+1152,2025-07-18,South,Electronics,Mid-Market,False,7,322.44,2257.08,False
+851,2025-07-19,East,Furniture,Enterprise,True,1,68.15,74.96500000000002,False
+1893,2025-07-19,South,Electronics,Enterprise,False,1,477.79,262.78450000000004,True
+1900,2025-07-19,North,Office Supplies,SMB,False,5,463.04,2315.2,False
+1078,2025-07-19,North,Apparel,Mid-Market,False,6,353.3,2119.8,False
+1699,2025-07-19,East,Electronics,Mid-Market,True,3,102.75,308.25,False
+180,2025-07-20,South,Toys,SMB,False,6,230.0,1380.0,False
+1048,2025-07-20,North,Electronics,Mid-Market,False,9,221.15,1990.35,False
+83,2025-07-20,East,Furniture,SMB,True,4,462.61,1850.44,False
+1051,2025-07-20,North,Office Supplies,SMB,False,8,162.72,1301.76,False
+991,2025-07-20,North,Toys,SMB,True,1,468.63,468.63,False
+538,2025-07-20,North,Furniture,Enterprise,True,4,333.28,1099.824,False
+1646,2025-07-21,East,Office Supplies,SMB,False,2,218.5,437.0,False
+54,2025-07-21,East,Electronics,SMB,True,3,326.12,978.36,False
+1365,2025-07-21,East,Office Supplies,SMB,False,8,493.32,3946.56,False
+977,2025-07-21,East,Toys,SMB,True,2,238.64,477.28,False
+1420,2025-07-21,East,Electronics,Mid-Market,True,2,117.03,234.06,False
+572,2025-07-21,North,Office Supplies,SMB,False,6,297.45,1784.7,False
+876,2025-07-21,North,Apparel,Mid-Market,False,7,120.96,846.72,False
+482,2025-07-21,South,Furniture,Enterprise,False,4,209.6,806.96,False
+691,2025-07-21,North,Apparel,SMB,True,1,146.08,146.08,False
+171,2025-07-22,South,Toys,SMB,False,8,383.64,3069.12,False
+1889,2025-07-22,North,Office Supplies,SMB,False,7,125.56,878.92,False
+745,2025-07-22,East,Furniture,Mid-Market,False,8,25.26,202.08,False
+1592,2025-07-22,West,Toys,Enterprise,False,3,447.02,1229.305,False
+1969,2025-07-22,East,Apparel,Mid-Market,False,8,383.16,3065.28,False
+506,2025-07-22,East,Apparel,Enterprise,True,4,435.15,1675.3275000000003,True
+1387,2025-07-23,East,Apparel,Enterprise,False,1,422.92,465.21200000000005,True
+1488,2025-07-23,West,Apparel,Enterprise,False,4,475.93,1570.5690000000002,False
+1278,2025-07-23,South,Office Supplies,Enterprise,False,2,168.89,278.66850000000005,False
+356,2025-07-23,North,Office Supplies,SMB,False,1,321.58,321.58,False
+580,2025-07-24,North,Electronics,Mid-Market,False,8,107.52,860.16,False
+622,2025-07-24,North,Toys,Enterprise,False,4,242.34,799.7220000000001,False
+1343,2025-07-24,North,Furniture,Enterprise,True,5,53.96,267.10200000000003,False
+1333,2025-07-25,East,Furniture,SMB,True,6,422.56,2535.36,False
+43,2025-07-25,North,Toys,Enterprise,False,2,119.73,263.406,False
+1771,2025-07-25,North,Electronics,Mid-Market,False,6,407.73,2446.38,False
+1506,2025-07-25,South,Toys,Mid-Market,False,7,338.78,2371.46,False
+433,2025-07-25,West,Apparel,SMB,False,6,376.81,2260.86,False
+1246,2025-07-25,North,Electronics,SMB,True,9,156.57,1409.13,False
+100,2025-07-26,West,Furniture,Enterprise,False,2,364.98,602.2170000000001,False
+1493,2025-07-26,East,Furniture,Enterprise,True,5,383.79,1899.7605000000003,False
+1424,2025-07-26,North,Toys,SMB,False,2,433.02,866.04,False
+670,2025-07-26,West,Office Supplies,Enterprise,True,4,369.85,1423.9225000000001,False
+598,2025-07-26,South,Toys,Enterprise,False,5,485.25,2135.1000000000004,False
+209,2025-07-27,East,Office Supplies,Mid-Market,False,6,284.87,1709.22,False
+1395,2025-07-27,West,Toys,Enterprise,False,2,128.07,281.754,True
+1315,2025-07-27,South,Office Supplies,Mid-Market,False,6,336.76,2020.56,False
+61,2025-07-27,North,Electronics,Enterprise,False,2,370.98,612.1170000000001,False
+226,2025-07-27,South,Apparel,Mid-Market,False,4,209.5,838.0,False
+1714,2025-07-27,North,Toys,Enterprise,False,5,327.28,1620.036,False
+1636,2025-07-27,West,Apparel,Enterprise,False,5,141.48,622.5120000000001,False
+1709,2025-07-28,South,Furniture,Enterprise,False,3,271.53,746.7075000000001,False
+1344,2025-07-28,North,Office Supplies,Enterprise,False,4,316.52,1218.602,False
+984,2025-07-28,West,Apparel,Mid-Market,True,4,43.1,172.4,False
+986,2025-07-28,South,Office Supplies,Enterprise,False,1,306.52,337.172,False
+1113,2025-07-29,West,Office Supplies,SMB,True,2,169.97,339.94,False
+856,2025-07-29,East,Toys,SMB,True,8,151.75,1214.0,False
+1274,2025-07-29,East,Electronics,Enterprise,True,4,143.56,473.74800000000005,False
+884,2025-07-29,East,Furniture,Mid-Market,False,9,440.59,3965.31,False
+1415,2025-07-30,West,Furniture,Enterprise,True,5,466.57,2309.5215000000003,False
+912,2025-07-30,North,Apparel,Enterprise,True,2,473.79,1042.3380000000002,False
+1911,2025-07-30,West,Electronics,SMB,True,8,156.57,1252.56,False
+750,2025-07-31,North,Office Supplies,Enterprise,False,3,275.08,756.4700000000001,False
+700,2025-07-31,East,Apparel,SMB,True,9,86.62,779.58,True
+539,2025-07-31,West,Furniture,Enterprise,True,3,121.93,335.3075,False
+60,2025-08-01,South,Office Supplies,SMB,False,3,403.2,1209.6,False
+1425,2025-08-01,South,Furniture,Enterprise,False,5,333.31,1466.564,False
+505,2025-08-01,North,Toys,Enterprise,False,1,468.58,515.438,False
+788,2025-08-01,North,Toys,Mid-Market,True,9,378.7,3408.3,False
+1978,2025-08-01,South,Toys,Mid-Market,True,3,132.75,398.25,False
+1850,2025-08-01,West,Electronics,Enterprise,False,4,182.55,602.4150000000001,False
+1949,2025-08-01,North,Office Supplies,Enterprise,False,3,373.87,1028.1425,False
+1565,2025-08-01,South,Furniture,SMB,False,2,497.96,995.92,False
+1852,2025-08-01,North,Office Supplies,Enterprise,True,2,413.86,682.869,False
+91,2025-08-02,North,Apparel,SMB,False,2,426.89,853.78,False
+673,2025-08-02,West,Apparel,SMB,False,2,96.63,193.26,False
+1353,2025-08-02,South,Furniture,SMB,False,7,198.66,1390.62,False
+1625,2025-08-02,South,Office Supplies,SMB,False,8,268.21,2145.68,False
+1339,2025-08-02,West,Office Supplies,Mid-Market,False,2,336.82,673.64,False
+658,2025-08-02,South,Office Supplies,SMB,False,7,121.48,850.36,False
+1892,2025-08-02,East,Apparel,Enterprise,False,4,177.0,681.45,False
+866,2025-08-02,West,Toys,SMB,False,5,179.26,896.3,False
+911,2025-08-03,North,Electronics,SMB,False,9,207.49,1867.41,False
+453,2025-08-03,South,Apparel,SMB,False,1,282.91,282.91,False
+9,2025-08-03,West,Toys,SMB,False,8,205.92,1647.36,False
+57,2025-08-03,North,Apparel,SMB,False,9,473.05,4257.45,False
+1076,2025-08-03,East,Electronics,Enterprise,True,4,143.57,552.7445,False
+999,2025-08-03,West,Toys,SMB,False,6,14.46,86.76,False
+1170,2025-08-03,East,Office Supplies,SMB,False,4,277.79,1111.16,False
+294,2025-08-03,South,Office Supplies,Enterprise,False,4,236.51,910.5635000000001,False
+394,2025-08-03,North,Apparel,SMB,True,2,444.43,888.86,False
+981,2025-08-03,West,Furniture,Mid-Market,False,6,122.5,735.0,False
+1096,2025-08-03,South,Electronics,SMB,False,6,328.65,1971.9,False
+1705,2025-08-03,South,Office Supplies,Enterprise,True,2,69.08,151.976,False
+1220,2025-08-04,South,Furniture,Enterprise,False,2,232.43,511.34600000000006,False
+1180,2025-08-04,East,Office Supplies,Mid-Market,True,7,329.38,2305.66,False
+1072,2025-08-04,North,Toys,Enterprise,True,5,443.7,1952.2800000000002,True
+88,2025-08-04,East,Apparel,SMB,True,4,299.25,1197.0,True
+677,2025-08-04,East,Toys,SMB,False,6,168.53,1011.18,False
+832,2025-08-04,East,Electronics,SMB,False,5,281.35,1406.75,False
+1761,2025-08-04,South,Toys,SMB,False,1,115.76,115.76,False
+1510,2025-08-04,North,Apparel,SMB,False,6,188.04,1128.24,False
+560,2025-08-05,East,Furniture,Enterprise,False,2,483.81,1064.382,False
+421,2025-08-05,West,Electronics,SMB,False,7,443.23,3102.61,True
+425,2025-08-05,North,Apparel,Enterprise,True,5,213.86,940.9840000000002,False
+404,2025-08-05,South,Electronics,Enterprise,False,5,383.43,1897.9785000000002,False
+1513,2025-08-05,East,Furniture,Mid-Market,True,4,276.02,1104.08,False
+475,2025-08-05,South,Electronics,Mid-Market,False,6,487.23,2923.38,False
+1054,2025-08-05,South,Furniture,Mid-Market,True,1,239.58,239.58,False
+1350,2025-08-05,East,Toys,SMB,False,5,328.27,1641.35,False
+1928,2025-08-05,North,Office Supplies,Enterprise,True,4,281.2,1082.6200000000001,False
+64,2025-08-05,South,Toys,SMB,False,7,79.85,558.95,False
+357,2025-08-06,East,Apparel,Enterprise,False,5,469.5,2324.025,False
+653,2025-08-06,West,Apparel,SMB,True,6,57.02,342.12,False
+98,2025-08-06,East,Office Supplies,SMB,False,2,422.81,845.62,False
+1162,2025-08-06,North,Furniture,Enterprise,False,2,142.35,313.17,False
+51,2025-08-06,South,Furniture,Mid-Market,True,2,67.04,134.08,False
+1677,2025-08-06,South,Furniture,Enterprise,True,2,15.81,26.0865,False
+167,2025-08-06,East,Electronics,Mid-Market,False,5,294.45,1472.25,False
+1531,2025-08-06,South,Furniture,SMB,False,4,69.14,276.56,True
+853,2025-08-06,East,Electronics,Enterprise,True,2,65.31,107.76150000000001,False
+1267,2025-08-07,South,Electronics,Mid-Market,False,4,44.99,179.96,False
+1014,2025-08-07,South,Toys,Mid-Market,True,9,372.82,3355.38,False
+1842,2025-08-07,East,Office Supplies,Enterprise,False,3,488.06,1342.1650000000002,False
+252,2025-08-08,South,Electronics,Enterprise,True,1,168.71,92.79050000000001,False
+159,2025-08-08,South,Office Supplies,Enterprise,False,2,424.22,933.2840000000001,False
+1920,2025-08-08,North,Office Supplies,Enterprise,False,4,285.26,1098.251,False
+540,2025-08-08,South,Toys,Enterprise,True,1,217.29,239.019,False
+533,2025-08-08,South,Furniture,SMB,False,2,355.16,710.32,False
+489,2025-08-08,South,Electronics,Enterprise,True,4,465.28,1535.424,False
+1429,2025-08-08,West,Office Supplies,Enterprise,True,4,91.85,353.62250000000006,False
+1544,2025-08-08,North,Furniture,Enterprise,False,3,250.71,689.4525,False
+1626,2025-08-08,South,Toys,SMB,False,9,281.24,2531.16,False
+351,2025-08-08,East,Apparel,Mid-Market,True,4,73.33,293.32,False
+737,2025-08-08,South,Apparel,Enterprise,False,2,364.72,802.3840000000001,True
+1871,2025-08-09,East,Toys,Enterprise,False,3,81.93,225.3075,False
+1411,2025-08-09,South,Office Supplies,Mid-Market,False,9,362.24,3260.16,False
+1580,2025-08-09,East,Office Supplies,Enterprise,False,5,59.2,260.48,False
+454,2025-08-09,West,Electronics,Mid-Market,True,8,333.95,2671.6,False
+1824,2025-08-09,East,Electronics,Enterprise,False,4,59.27,228.1895,False
+1263,2025-08-10,South,Furniture,SMB,True,8,155.53,1244.24,False
+361,2025-08-10,North,Electronics,Enterprise,True,1,429.2,236.06,False
+109,2025-08-10,South,Apparel,SMB,False,6,166.83,1000.98,False
+594,2025-08-10,South,Electronics,SMB,False,4,268.11,1072.44,False
+1955,2025-08-10,West,Furniture,Mid-Market,False,8,123.53,988.24,False
+924,2025-08-10,North,Office Supplies,SMB,False,5,420.38,2101.9,True
+973,2025-08-10,North,Office Supplies,SMB,False,8,59.14,473.12,True
+1332,2025-08-10,South,Electronics,Mid-Market,False,9,196.84,1771.56,False
+735,2025-08-11,West,Apparel,SMB,False,9,220.26,1982.34,False
+1256,2025-08-11,East,Electronics,Mid-Market,True,5,120.17,600.85,False
+1385,2025-08-11,East,Apparel,SMB,True,8,90.78,726.24,False
+368,2025-08-11,West,Electronics,Mid-Market,True,9,205.22,1846.98,False
+1516,2025-08-11,West,Toys,SMB,True,3,487.6,1462.8,False
+449,2025-08-11,West,Electronics,SMB,False,9,485.39,4368.51,False
+1921,2025-08-11,North,Office Supplies,SMB,True,4,333.57,1334.28,True
+270,2025-08-11,West,Office Supplies,Enterprise,False,3,207.58,570.8450000000001,False
+1098,2025-08-11,South,Office Supplies,SMB,True,8,12.77,102.16,False
+953,2025-08-11,East,Toys,SMB,False,5,332.73,1663.65,True
+434,2025-08-11,East,Toys,Enterprise,False,2,148.29,326.238,False
+416,2025-08-12,South,Apparel,SMB,True,2,159.65,319.3,False
+1572,2025-08-12,West,Apparel,Enterprise,False,4,114.61,378.213,False
+1249,2025-08-12,South,Electronics,Enterprise,True,5,260.79,1290.9105000000002,False
+1261,2025-08-12,North,Toys,SMB,True,1,193.3,193.3,False
+1968,2025-08-12,East,Apparel,Enterprise,False,1,470.92,518.0120000000001,False
+909,2025-08-12,North,Apparel,SMB,False,5,420.88,2104.4,False
+161,2025-08-12,South,Electronics,SMB,True,3,397.83,1193.49,False
+522,2025-08-12,East,Toys,SMB,True,2,482.61,965.22,False
+1212,2025-08-12,East,Furniture,Enterprise,True,1,400.73,220.40150000000003,False
+555,2025-08-12,North,Office Supplies,SMB,True,6,293.2,1759.2,False
+983,2025-08-12,South,Furniture,SMB,False,9,168.06,1512.54,False
+1451,2025-08-13,East,Toys,Enterprise,True,5,63.27,313.1865,False
+132,2025-08-13,East,Toys,SMB,False,2,196.49,392.98,False
+140,2025-08-13,South,Toys,SMB,True,5,184.56,922.8,False
+1368,2025-08-13,South,Office Supplies,Mid-Market,True,4,292.46,1169.84,False
+162,2025-08-13,East,Apparel,Enterprise,True,3,58.75,161.5625,False
+751,2025-08-13,North,Apparel,SMB,True,4,447.25,1789.0,False
+807,2025-08-13,West,Electronics,Enterprise,False,2,208.14,343.431,False
+1195,2025-08-14,North,Apparel,SMB,False,6,86.03,516.18,False
+1654,2025-08-14,North,Apparel,Mid-Market,False,1,455.22,455.22,False
+1201,2025-08-14,South,Electronics,Enterprise,False,2,397.63,656.0895000000002,False
+1150,2025-08-14,West,Furniture,SMB,False,1,273.72,273.72,False
+605,2025-08-14,East,Toys,SMB,False,7,397.22,2780.54,False
+1940,2025-08-14,South,Furniture,Enterprise,False,1,221.22,121.671,False
+974,2025-08-14,East,Apparel,Enterprise,False,1,174.69,192.15900000000002,False
+1289,2025-08-14,West,Apparel,SMB,False,9,34.25,308.25,False
+243,2025-08-14,East,Furniture,SMB,False,1,401.45,401.45,False
+719,2025-08-14,East,Apparel,Enterprise,True,4,227.47,750.6510000000001,False
+1738,2025-08-14,East,Furniture,SMB,False,2,67.9,135.8,False
+1161,2025-08-14,South,Apparel,SMB,False,1,287.0,287.0,False
+1183,2025-08-15,South,Electronics,SMB,False,7,217.94,1525.58,False
+1125,2025-08-15,South,Apparel,Mid-Market,True,9,468.34,4215.06,False
+1869,2025-08-15,East,Office Supplies,SMB,False,3,345.58,1036.74,False
+1281,2025-08-15,North,Office Supplies,Enterprise,True,4,477.78,1576.674,False
+93,2025-08-15,South,Apparel,SMB,False,7,362.32,2536.24,False
+408,2025-08-15,West,Office Supplies,Enterprise,False,3,233.4,641.85,False
+1117,2025-08-15,West,Furniture,Mid-Market,False,9,407.66,3668.94,False
+220,2025-08-15,South,Office Supplies,Enterprise,True,2,206.8,454.96000000000004,False
+1046,2025-08-15,South,Electronics,Enterprise,True,2,353.96,584.0340000000001,False
+510,2025-08-15,South,Apparel,Mid-Market,False,1,263.47,263.47,False
+1035,2025-08-15,North,Electronics,SMB,False,5,114.81,574.05,False
+686,2025-08-15,East,Office Supplies,SMB,True,9,388.12,3493.08,False
+1336,2025-08-16,South,Office Supplies,Mid-Market,True,9,320.93,2888.37,False
+708,2025-08-16,West,Electronics,Enterprise,True,2,355.44,586.476,False
+535,2025-08-16,South,Toys,SMB,False,6,56.4,338.4,False
+831,2025-08-16,West,Office Supplies,SMB,False,3,297.26,891.78,False
+1909,2025-08-16,West,Toys,Enterprise,False,4,324.96,1251.096,True
+1438,2025-08-16,South,Toys,Mid-Market,True,8,378.29,3026.32,False
+1585,2025-08-16,North,Office Supplies,SMB,True,2,282.75,565.5,False
+941,2025-08-17,North,Apparel,SMB,False,8,102.57,820.56,False
+508,2025-08-17,East,Furniture,SMB,True,9,51.47,463.23,False
+1684,2025-08-17,North,Furniture,SMB,True,2,46.2,92.4,False
+720,2025-08-17,East,Toys,Mid-Market,False,5,130.59,652.95,False
+1837,2025-08-17,West,Toys,SMB,True,3,58.52,175.56,False
+327,2025-08-17,East,Apparel,SMB,False,5,474.49,2372.45,False
+786,2025-08-17,South,Electronics,SMB,False,3,153.31,459.93,False
+733,2025-08-17,East,Apparel,Enterprise,True,1,290.7,319.77000000000004,True
+1469,2025-08-17,East,Office Supplies,Enterprise,True,2,50.86,83.91900000000001,False
+599,2025-08-17,North,Furniture,SMB,True,6,463.11,2778.66,False
+1994,2025-08-17,West,Apparel,Mid-Market,False,3,205.33,615.99,False
+1061,2025-08-17,North,Electronics,SMB,False,2,411.88,823.76,False
+462,2025-08-18,East,Office Supplies,Enterprise,True,4,273.08,1051.358,False
+1844,2025-08-18,South,Electronics,SMB,False,4,406.8,1627.2,False
+239,2025-08-18,East,Office Supplies,SMB,False,8,472.18,3777.44,False
+1698,2025-08-18,North,Apparel,SMB,True,6,291.78,1750.68,False
+1461,2025-08-19,East,Office Supplies,Enterprise,True,3,165.1,454.02500000000003,False
+1734,2025-08-19,North,Furniture,Enterprise,True,2,426.8,704.2200000000001,False
+79,2025-08-19,North,Toys,SMB,True,4,43.49,173.96,False
+819,2025-08-19,South,Furniture,SMB,False,4,322.11,1288.44,False
+105,2025-08-19,North,Furniture,SMB,True,5,19.25,96.25,False
+110,2025-08-19,North,Office Supplies,Mid-Market,True,4,28.22,112.88,False
+1464,2025-08-19,West,Electronics,Mid-Market,True,5,55.29,276.45,False
+694,2025-08-19,North,Furniture,Enterprise,False,1,378.17,415.987,False
+1826,2025-08-19,South,Apparel,SMB,False,4,489.78,1959.12,False
+130,2025-08-19,North,Toys,SMB,False,9,197.9,1781.1,False
+1868,2025-08-20,South,Office Supplies,SMB,False,5,330.86,1654.3,False
+1888,2025-08-20,East,Furniture,SMB,False,6,406.22,2437.32,False
+1536,2025-08-20,South,Electronics,Enterprise,False,5,348.76,1726.3620000000003,True
+1908,2025-08-20,East,Office Supplies,SMB,True,4,139.37,557.48,False
+1683,2025-08-20,North,Office Supplies,SMB,False,5,281.13,1405.65,False
+1034,2025-08-20,West,Toys,SMB,False,5,493.01,2465.05,False
+648,2025-08-21,South,Electronics,SMB,False,2,284.75,569.5,False
+1959,2025-08-21,East,Toys,SMB,True,4,453.13,1812.52,False
+135,2025-08-21,West,Office Supplies,SMB,True,4,181.39,725.56,False
+1870,2025-08-21,West,Electronics,Enterprise,True,3,466.9,1283.9750000000001,False
+514,2025-08-21,South,Furniture,Enterprise,False,5,323.32,1422.6080000000002,False
+146,2025-08-21,South,Office Supplies,SMB,False,6,72.09,432.54,False
+257,2025-08-21,West,Electronics,Enterprise,False,1,474.98,261.23900000000003,True
+430,2025-08-21,North,Furniture,Mid-Market,False,9,49.36,444.24,False
+1369,2025-08-21,West,Furniture,SMB,False,7,438.3,3068.1,False
+1254,2025-08-21,South,Office Supplies,SMB,False,8,355.65,2845.2,False
+1260,2025-08-21,West,Apparel,SMB,True,4,207.58,830.32,False
+206,2025-08-21,North,Office Supplies,Enterprise,False,4,188.5,622.0500000000001,False
+704,2025-08-21,South,Office Supplies,Enterprise,False,2,423.74,932.2280000000001,False
+967,2025-08-22,West,Electronics,Enterprise,True,4,12.44,47.894000000000005,False
+1521,2025-08-22,South,Furniture,SMB,False,7,297.43,2082.01,False
+141,2025-08-22,West,Apparel,Enterprise,False,4,310.81,1196.6185,False
+1236,2025-08-23,South,Furniture,Enterprise,True,2,289.47,636.8340000000001,False
+1973,2025-08-23,North,Apparel,Enterprise,True,4,436.71,1681.3335,True
+455,2025-08-23,South,Furniture,Mid-Market,True,2,173.06,346.12,False
+624,2025-08-23,South,Toys,SMB,False,1,26.29,26.29,False
+993,2025-08-23,North,Electronics,SMB,False,4,340.27,1361.08,False
+20,2025-08-24,East,Furniture,Enterprise,False,4,271.12,1043.8120000000001,False
+593,2025-08-24,East,Electronics,Enterprise,True,4,218.96,722.5680000000001,False
+713,2025-08-24,West,Toys,SMB,True,7,298.67,2090.69,True
+1335,2025-08-24,South,Toys,SMB,False,6,45.23,271.38,False
+1129,2025-08-24,South,Apparel,Enterprise,True,4,316.21,1043.4930000000002,False
+1302,2025-08-24,West,Electronics,Enterprise,False,2,267.43,588.3460000000001,True
+1967,2025-08-24,North,Apparel,Mid-Market,True,5,107.56,537.8,False
+779,2025-08-24,South,Furniture,SMB,False,4,350.99,1403.96,False
+1132,2025-08-24,North,Electronics,SMB,False,8,54.85,438.8,False
+62,2025-08-25,East,Office Supplies,SMB,False,4,155.69,622.76,False
+111,2025-08-25,North,Office Supplies,SMB,False,6,186.82,1120.92,False
+795,2025-08-25,East,Electronics,SMB,True,6,309.1,1854.6,False
+990,2025-08-25,South,Furniture,SMB,True,4,29.18,116.72,False
+1218,2025-08-25,West,Furniture,SMB,False,5,170.09,850.45,False
+1725,2025-08-25,East,Office Supplies,SMB,False,8,362.84,2902.72,False
+340,2025-08-25,West,Toys,Enterprise,False,5,268.89,1331.0055000000002,False
+1742,2025-08-25,North,Furniture,Mid-Market,False,2,417.84,835.68,False
+1018,2025-08-25,South,Furniture,Mid-Market,False,1,397.74,397.74,False
+1447,2025-08-25,South,Office Supplies,SMB,True,8,78.47,627.76,False
+1780,2025-08-26,West,Toys,Mid-Market,False,1,343.07,343.07,False
+1409,2025-08-26,South,Furniture,SMB,True,2,131.2,262.4,False
+236,2025-08-26,West,Electronics,Mid-Market,True,5,341.04,1705.2,False
+684,2025-08-26,North,Toys,SMB,True,7,225.6,1579.2,False
+1964,2025-08-26,North,Apparel,Mid-Market,False,7,48.57,339.99,False
+355,2025-08-26,South,Apparel,Mid-Market,False,6,446.72,2680.32,False
+1599,2025-08-27,North,Toys,Enterprise,False,2,273.43,451.15950000000004,False
+685,2025-08-27,North,Furniture,Enterprise,False,2,195.86,430.89200000000005,False
+556,2025-08-27,North,Toys,Mid-Market,False,7,268.43,1879.01,False
+659,2025-08-27,East,Furniture,SMB,False,3,59.93,179.79,False
+1044,2025-08-27,North,Toys,SMB,False,4,112.82,451.28,False
+457,2025-08-27,East,Toys,SMB,False,6,301.26,1807.56,False
+940,2025-08-27,West,Toys,Enterprise,False,4,453.99,1747.8615,False
+1133,2025-08-27,South,Office Supplies,SMB,True,8,137.28,1098.24,False
+1755,2025-08-27,East,Electronics,SMB,False,5,125.95,629.75,False
+334,2025-08-27,North,Toys,SMB,False,5,372.53,1862.65,True
+626,2025-08-28,North,Apparel,Enterprise,True,5,85.74,377.25600000000003,False
+541,2025-08-28,South,Office Supplies,Mid-Market,False,7,424.68,2972.76,False
+177,2025-08-28,West,Toys,Enterprise,True,5,298.79,1314.6760000000002,False
+1454,2025-08-28,West,Toys,Enterprise,False,4,108.99,359.6670000000001,False
+1163,2025-08-29,East,Furniture,SMB,False,5,202.28,1011.4,False
+106,2025-08-29,North,Furniture,SMB,False,2,72.39,144.78,False
+1175,2025-08-29,East,Furniture,Enterprise,False,4,289.57,1114.8445000000002,False
+1673,2025-08-29,West,Apparel,SMB,True,1,459.87,459.87,False
+1616,2025-08-29,North,Toys,SMB,False,8,205.98,1647.84,False
+1366,2025-08-30,South,Apparel,SMB,False,7,265.79,1860.53,False
+1887,2025-08-30,North,Office Supplies,Enterprise,False,4,183.15,705.1275,False
+488,2025-08-30,North,Electronics,Mid-Market,True,2,418.36,836.72,False
+392,2025-08-30,South,Toys,SMB,False,9,257.27,2315.43,False
+1266,2025-08-30,West,Toys,SMB,False,1,393.65,393.65,False
+1649,2025-08-30,West,Electronics,Mid-Market,False,4,173.36,693.44,True
+549,2025-08-30,North,Furniture,Mid-Market,False,7,498.63,3490.41,True
+1851,2025-08-30,East,Apparel,Enterprise,False,2,220.04,363.06600000000003,True
+37,2025-08-30,North,Apparel,SMB,False,1,311.41,311.41,False
+1509,2025-08-30,East,Apparel,Mid-Market,False,3,261.88,785.64,False
+1405,2025-08-31,South,Apparel,Enterprise,True,1,426.44,469.08400000000006,False
+844,2025-08-31,North,Furniture,SMB,False,7,372.85,2609.95,False
+1421,2025-08-31,East,Office Supplies,SMB,True,1,305.44,305.44,False
+1441,2025-08-31,East,Electronics,Mid-Market,False,1,121.53,121.53,False
+730,2025-08-31,North,Electronics,SMB,False,6,335.14,2010.84,False
+1159,2025-08-31,East,Toys,Enterprise,True,2,69.0,113.85000000000001,False
+119,2025-08-31,South,Toys,Enterprise,True,4,78.14,257.862,False
+1047,2025-09-01,East,Furniture,SMB,False,9,253.1,2277.9,False
+1753,2025-09-01,West,Toys,SMB,False,1,407.87,407.87,False
+880,2025-09-01,East,Office Supplies,Mid-Market,True,9,399.86,3598.74,False
+30,2025-09-01,North,Apparel,SMB,False,7,43.88,307.16,False
+1502,2025-09-02,West,Toys,SMB,False,1,416.41,416.41,False
+1128,2025-09-02,West,Furniture,Enterprise,True,5,349.7,1538.68,False
+1554,2025-09-02,East,Furniture,Mid-Market,True,1,384.88,384.88,False
+1843,2025-09-03,North,Toys,Mid-Market,True,3,432.63,1297.89,False
+992,2025-09-03,North,Office Supplies,SMB,False,7,56.58,396.06,False
+1443,2025-09-03,North,Electronics,SMB,False,4,284.34,1137.36,False
+280,2025-09-03,North,Furniture,SMB,False,6,108.03,648.18,True
+1040,2025-09-03,South,Electronics,SMB,False,5,445.07,2225.35,False
+365,2025-09-03,North,Office Supplies,SMB,False,2,116.56,233.12,False
+1121,2025-09-04,North,Furniture,Enterprise,False,5,426.24,2109.888,False
+170,2025-09-04,West,Furniture,Mid-Market,False,3,140.58,421.74,False
+345,2025-09-04,North,Office Supplies,SMB,True,5,381.87,1909.35,False
+729,2025-09-04,West,Toys,Mid-Market,False,8,405.68,3245.44,False
+936,2025-09-04,North,Apparel,SMB,True,4,462.68,1850.72,False
+375,2025-09-04,South,Office Supplies,SMB,False,4,290.77,1163.08,False
+1890,2025-09-04,West,Furniture,Enterprise,False,1,236.02,129.811,False
+284,2025-09-04,North,Office Supplies,SMB,False,5,181.55,907.75,True
+610,2025-09-04,East,Office Supplies,Enterprise,True,5,316.96,1568.952,False
+1730,2025-09-05,East,Office Supplies,Mid-Market,False,6,461.37,2768.22,False
+405,2025-09-06,South,Office Supplies,Enterprise,True,4,220.37,727.2210000000001,False
+1745,2025-09-06,North,Apparel,SMB,False,5,468.11,2340.55,True
+1238,2025-09-06,North,Apparel,SMB,False,2,421.6,843.2,False
+939,2025-09-06,South,Furniture,Mid-Market,False,6,38.91,233.46,False
+628,2025-09-06,North,Office Supplies,SMB,False,3,144.73,434.19,False
+655,2025-09-06,West,Furniture,SMB,False,4,479.09,1916.36,False
+607,2025-09-06,East,Apparel,SMB,True,8,286.53,2292.24,False
+1436,2025-09-07,South,Furniture,SMB,False,9,424.57,3821.13,False
+363,2025-09-07,East,Furniture,Enterprise,False,5,401.49,1766.5560000000003,True
+587,2025-09-07,South,Electronics,Mid-Market,True,9,320.67,2886.03,False
+369,2025-09-07,North,Apparel,Mid-Market,False,3,352.78,1058.34,False
+1090,2025-09-07,North,Office Supplies,SMB,True,4,486.91,1947.64,False
+1042,2025-09-07,East,Office Supplies,SMB,True,5,316.12,1580.6,False
+550,2025-09-08,West,Toys,Mid-Market,True,4,392.29,1569.16,False
+1120,2025-09-08,East,Furniture,Mid-Market,False,6,477.69,2866.14,True
+1280,2025-09-08,North,Apparel,SMB,False,9,172.12,1549.08,False
+887,2025-09-08,South,Furniture,Enterprise,False,3,27.45,75.48750000000001,False
+1511,2025-09-08,East,Furniture,SMB,False,3,367.8,1103.4,False
+1204,2025-09-08,West,Furniture,SMB,False,6,397.69,2386.14,False
+595,2025-09-08,North,Furniture,Mid-Market,False,1,187.08,187.08,False
+1392,2025-09-08,North,Apparel,SMB,False,8,143.68,1149.44,False
+1495,2025-09-08,North,Electronics,SMB,False,8,277.17,2217.36,False
+58,2025-09-09,West,Toys,Enterprise,True,5,493.96,2445.1020000000003,False
+604,2025-09-09,South,Furniture,Enterprise,False,5,452.15,1989.46,False
+65,2025-09-09,North,Electronics,SMB,True,2,420.76,841.52,False
+185,2025-09-09,North,Apparel,SMB,False,3,321.07,963.21,False
+1866,2025-09-09,North,Apparel,SMB,True,5,287.78,1438.9,False
+196,2025-09-09,South,Furniture,SMB,True,7,355.62,2489.34,False
+1816,2025-09-09,North,Toys,SMB,False,2,388.84,777.68,False
+478,2025-09-09,South,Furniture,Enterprise,False,4,285.31,941.523,False
+507,2025-09-09,North,Office Supplies,SMB,False,7,173.0,1211.0,False
+1775,2025-09-10,North,Furniture,Mid-Market,True,2,128.63,257.26,False
+668,2025-09-10,North,Office Supplies,Enterprise,True,2,287.87,633.3140000000001,False
+1807,2025-09-10,South,Toys,SMB,False,6,198.63,1191.78,False
+19,2025-09-10,East,Toys,SMB,False,2,441.96,883.92,True
+391,2025-09-10,North,Office Supplies,Enterprise,True,1,413.0,454.3,False
+265,2025-09-10,North,Furniture,SMB,True,4,95.31,381.24,False
+544,2025-09-10,West,Furniture,Enterprise,True,1,297.81,327.591,False
+461,2025-09-10,West,Apparel,SMB,True,4,17.79,71.16,False
+848,2025-09-11,North,Office Supplies,Enterprise,True,3,450.98,1240.1950000000002,False
+201,2025-09-11,South,Toys,SMB,False,9,140.97,1268.73,False
+1665,2025-09-11,South,Office Supplies,Mid-Market,False,2,129.53,259.06,False
+1798,2025-09-11,West,Apparel,SMB,False,6,83.61,501.66,False
+219,2025-09-11,East,Furniture,Mid-Market,True,7,425.8,2980.6,False
+823,2025-09-11,South,Furniture,SMB,False,3,130.49,391.47,False
+360,2025-09-11,North,Toys,SMB,False,4,420.82,1683.28,False
+99,2025-09-12,North,Apparel,Enterprise,True,1,302.35,166.29250000000002,False
+937,2025-09-12,West,Toys,SMB,False,1,323.18,323.18,False
+174,2025-09-12,East,Toys,SMB,True,8,350.45,2803.6,False
+597,2025-09-12,West,Toys,Enterprise,False,1,24.98,27.478,False
+1931,2025-09-12,East,Office Supplies,SMB,True,8,182.13,1457.04,False
+1859,2025-09-13,West,Office Supplies,SMB,False,5,473.98,2369.9,False
+546,2025-09-13,North,Electronics,Enterprise,False,4,381.94,1470.469,False
+1772,2025-09-13,East,Office Supplies,SMB,True,4,375.8,1503.2,False
+1923,2025-09-13,North,Furniture,SMB,True,9,365.67,3291.03,False
+267,2025-09-13,North,Furniture,Enterprise,False,2,403.93,888.6460000000001,False
+1832,2025-09-13,West,Furniture,Enterprise,False,4,429.59,1653.9215000000002,False
+1970,2025-09-13,North,Office Supplies,SMB,True,3,351.15,1053.45,False
+972,2025-09-13,West,Apparel,SMB,False,2,238.69,477.38,True
+372,2025-09-14,West,Toys,SMB,False,4,44.32,177.28,False
+1479,2025-09-14,North,Electronics,SMB,True,5,170.36,851.8,False
+1308,2025-09-14,South,Office Supplies,SMB,True,7,394.7,2762.9,False
+918,2025-09-14,West,Electronics,SMB,True,1,228.83,228.83,False
+665,2025-09-14,East,Apparel,Enterprise,True,2,73.86,121.86900000000001,False
+868,2025-09-14,South,Office Supplies,Mid-Market,False,8,218.04,1744.32,False
+96,2025-09-14,West,Furniture,SMB,False,6,66.56,399.36,False
+908,2025-09-14,West,Office Supplies,SMB,False,3,393.5,1180.5,False
+1707,2025-09-15,South,Office Supplies,Enterprise,False,4,365.69,1206.777,False
+15,2025-09-15,West,Furniture,SMB,False,5,300.96,1504.8,False
+1936,2025-09-15,North,Furniture,Enterprise,True,5,42.88,212.25600000000003,False
+1744,2025-09-15,North,Furniture,Mid-Market,False,7,461.07,3227.49,False
+1245,2025-09-15,South,Toys,Enterprise,False,4,459.15,1515.1950000000002,False
+376,2025-09-15,North,Office Supplies,Mid-Market,False,8,234.6,1876.8,False
+1976,2025-09-15,West,Toys,Mid-Market,True,7,146.03,1022.21,False
+1666,2025-09-15,East,Office Supplies,SMB,True,5,421.03,2105.15,False
+590,2025-09-16,East,Office Supplies,SMB,False,3,57.87,173.61,False
+136,2025-09-16,South,Apparel,SMB,False,7,163.53,1144.71,True
+183,2025-09-16,East,Furniture,SMB,False,7,74.0,518.0,False
+568,2025-09-16,East,Office Supplies,SMB,False,7,388.92,2722.44,False
+1164,2025-09-16,South,Furniture,Enterprise,True,2,206.37,340.51050000000004,False
+1703,2025-09-16,West,Office Supplies,SMB,False,8,162.83,1302.64,False
+519,2025-09-16,South,Apparel,SMB,True,6,478.37,2870.22,False
+761,2025-09-16,West,Electronics,SMB,False,6,464.54,2787.24,True
+581,2025-09-17,West,Furniture,SMB,True,7,395.61,2769.27,False
+1154,2025-09-17,North,Apparel,SMB,False,5,274.86,1374.3,False
+49,2025-09-17,East,Office Supplies,Enterprise,True,5,210.98,1044.351,False
+1818,2025-09-17,East,Apparel,Mid-Market,True,3,196.97,590.91,False
+1819,2025-09-17,South,Apparel,SMB,False,9,258.28,2324.52,False
+837,2025-09-18,North,Electronics,Enterprise,True,5,44.14,194.216,False
+971,2025-09-18,North,Toys,Enterprise,False,3,92.8,255.20000000000002,False
+1167,2025-09-18,South,Toys,Mid-Market,False,8,428.04,3424.32,False
+1470,2025-09-18,North,Furniture,Mid-Market,True,7,420.27,2941.89,False
+1915,2025-09-18,North,Furniture,Enterprise,False,3,404.1,1111.275,False
+1914,2025-09-18,East,Office Supplies,Mid-Market,False,1,276.68,276.68,False
+78,2025-09-18,West,Apparel,Enterprise,False,1,385.4,211.97,False
+765,2025-09-18,East,Office Supplies,Enterprise,False,3,139.09,382.49750000000006,False
+1200,2025-09-18,East,Electronics,SMB,False,3,235.91,707.73,False
+1219,2025-09-19,South,Apparel,Enterprise,True,4,380.78,1256.574,False
+1383,2025-09-19,East,Apparel,Enterprise,False,1,146.46,80.55300000000001,False
+620,2025-09-19,North,Office Supplies,SMB,False,4,361.02,1444.08,False
+1440,2025-09-19,East,Apparel,Enterprise,False,2,361.08,595.782,True
+1306,2025-09-19,East,Office Supplies,Mid-Market,True,3,321.14,963.42,False
+315,2025-09-19,South,Toys,Mid-Market,False,8,64.37,514.96,False
+1750,2025-09-19,West,Office Supplies,SMB,False,7,290.32,2032.24,False
+1165,2025-09-19,East,Toys,SMB,False,2,97.49,194.98,False
+1610,2025-09-20,West,Electronics,SMB,True,4,427.01,1708.04,False
+195,2025-09-20,North,Office Supplies,Enterprise,False,3,281.55,774.2625,False
+1667,2025-09-20,South,Toys,Enterprise,False,4,194.18,640.794,False
+1814,2025-09-20,East,Electronics,Mid-Market,False,2,487.59,975.18,False
+1619,2025-09-20,East,Toys,SMB,False,1,416.02,416.02,False
+955,2025-09-20,North,Electronics,SMB,True,8,437.35,3498.8,False
+1388,2025-09-21,South,Toys,Enterprise,False,1,149.32,164.252,False
+1481,2025-09-21,West,Apparel,Mid-Market,False,3,201.75,605.25,False
+927,2025-09-21,West,Toys,Enterprise,True,2,202.06,444.53200000000004,False
+1524,2025-09-21,South,Office Supplies,SMB,False,8,178.03,1424.24,False
+1711,2025-09-21,West,Office Supplies,SMB,False,8,488.51,3908.08,False
+308,2025-09-21,South,Apparel,Enterprise,True,3,250.27,688.2425,False
+712,2025-09-21,West,Office Supplies,Enterprise,True,2,77.24,127.44600000000001,False
+1073,2025-09-21,North,Apparel,Enterprise,False,2,14.02,30.844,False
+241,2025-09-21,West,Electronics,Enterprise,True,2,347.84,765.248,False
+290,2025-09-21,North,Furniture,SMB,False,9,176.15,1585.35,False
+41,2025-09-21,South,Office Supplies,Enterprise,False,1,453.28,249.304,False
+396,2025-09-21,East,Office Supplies,SMB,True,7,197.6,1383.2,False
+1697,2025-09-21,East,Office Supplies,SMB,True,1,350.8,350.8,False
+1891,2025-09-21,South,Office Supplies,SMB,True,5,241.54,1207.7,False
+946,2025-09-21,West,Toys,SMB,True,2,457.46,914.92,False
+432,2025-09-22,East,Apparel,Enterprise,False,5,107.19,530.5905,False
+774,2025-09-22,East,Apparel,Enterprise,True,1,155.29,170.81900000000002,False
+1576,2025-09-22,West,Electronics,SMB,False,2,165.9,331.8,False
+38,2025-09-22,South,Toys,Enterprise,True,1,33.23,18.2765,False
+1478,2025-09-23,East,Toys,SMB,False,6,118.43,710.58,False
+1932,2025-09-23,North,Apparel,SMB,True,8,290.65,2325.2,False
+1086,2025-09-23,South,Furniture,SMB,True,6,417.11,2502.66,False
+1773,2025-09-23,South,Furniture,SMB,False,8,284.38,2275.04,False
+1803,2025-09-23,East,Toys,Mid-Market,False,9,171.34,1542.06,False
+930,2025-09-23,East,Apparel,Enterprise,False,4,281.29,928.2570000000001,True
+1134,2025-09-23,North,Toys,SMB,False,1,280.23,280.23,False
+1029,2025-09-24,East,Toys,Enterprise,False,4,473.03,1560.999,False
+1189,2025-09-24,North,Toys,SMB,True,1,158.91,158.91,False
+785,2025-09-24,East,Furniture,Mid-Market,False,2,33.92,67.84,False
+1352,2025-09-24,West,Office Supplies,Mid-Market,False,9,292.12,2629.08,False
+192,2025-09-24,East,Toys,SMB,False,8,156.68,1253.44,False
+1805,2025-09-24,North,Office Supplies,Mid-Market,False,5,191.88,959.4,False
+558,2025-09-24,South,Apparel,SMB,True,4,360.57,1442.28,False
+867,2025-09-24,West,Furniture,Enterprise,True,3,378.94,1042.085,False
+1574,2025-09-24,East,Office Supplies,Mid-Market,True,3,428.73,1286.19,False
+418,2025-09-25,North,Electronics,Mid-Market,False,9,476.04,4284.36,False
+384,2025-09-25,North,Toys,Mid-Market,True,4,352.6,1410.4,False
+1958,2025-09-25,East,Apparel,Mid-Market,False,5,328.55,1642.75,False
+1081,2025-09-25,South,Furniture,SMB,False,6,60.77,364.62,False
+1017,2025-09-25,North,Furniture,SMB,True,5,92.62,463.1,False
+84,2025-09-25,East,Office Supplies,Mid-Market,True,8,176.52,1412.16,False
+591,2025-09-25,South,Office Supplies,Enterprise,True,2,311.81,685.9820000000001,True
+1445,2025-09-25,South,Furniture,SMB,False,8,68.02,544.16,False
+150,2025-09-25,North,Office Supplies,SMB,False,5,442.74,2213.7,False
+1552,2025-09-26,South,Furniture,SMB,True,2,241.94,483.88,False
+318,2025-09-26,North,Electronics,SMB,True,5,102.19,510.95,False
+1227,2025-09-26,East,Apparel,Enterprise,True,4,221.1,851.2350000000001,False
+1975,2025-09-26,South,Electronics,Mid-Market,False,8,200.17,1601.36,True
+1184,2025-09-26,East,Office Supplies,Enterprise,True,5,17.65,87.3675,False
+1937,2025-09-26,East,Apparel,Enterprise,False,2,216.59,476.49800000000005,False
+1690,2025-09-26,South,Office Supplies,SMB,True,4,451.72,1806.88,False
+1122,2025-09-26,North,Electronics,SMB,False,9,476.22,4285.98,False
+1778,2025-09-27,West,Furniture,SMB,True,9,443.36,3990.24,False
+787,2025-09-27,East,Office Supplies,Mid-Market,False,9,395.28,3557.52,False
+1275,2025-09-27,North,Electronics,Enterprise,True,2,458.6,1008.9200000000002,False
+1475,2025-09-27,South,Apparel,SMB,False,6,258.61,1551.66,False
+55,2025-09-27,East,Electronics,SMB,True,1,148.36,148.36,False
+1091,2025-09-27,East,Furniture,Enterprise,True,3,181.5,499.12500000000006,False
+1314,2025-09-28,West,Apparel,Enterprise,True,4,394.3,1301.1900000000003,False
+56,2025-09-28,West,Furniture,SMB,False,3,154.84,464.52,False
+305,2025-09-28,West,Apparel,Enterprise,False,1,267.05,146.87750000000003,False
+1943,2025-09-28,North,Apparel,SMB,True,5,204.49,1022.45,False
+2,2025-09-28,West,Electronics,Mid-Market,False,3,491.71,1475.13,True
+25,2025-09-28,South,Furniture,SMB,True,2,434.73,869.46,False
+1586,2025-09-28,North,Apparel,Enterprise,False,5,114.47,503.66800000000006,False
+1594,2025-09-28,East,Toys,Enterprise,False,2,395.29,652.2284999999999,False
+1293,2025-09-28,South,Electronics,Mid-Market,False,6,316.69,1900.14,False
+1629,2025-09-28,South,Toys,Enterprise,False,2,158.34,348.348,False
+523,2025-09-29,North,Electronics,Enterprise,False,5,84.11,416.34450000000004,False
+341,2025-09-29,North,Electronics,SMB,False,2,481.12,962.24,False
+1131,2025-09-29,East,Toys,Enterprise,False,4,376.55,1449.7175,False
+1736,2025-09-29,South,Toys,Enterprise,True,2,184.21,303.9465,False
+617,2025-09-30,South,Apparel,SMB,True,3,394.95,1184.85,False
+693,2025-09-30,East,Toys,Mid-Market,False,1,138.03,138.03,False
+1334,2025-09-30,North,Electronics,Enterprise,True,1,454.38,499.81800000000004,True
+1100,2025-09-30,South,Apparel,Mid-Market,True,4,458.91,1835.64,False
+1822,2025-09-30,South,Apparel,SMB,True,8,442.48,3539.84,False
+1944,2025-09-30,North,Apparel,SMB,False,5,412.55,2062.75,True
+773,2025-09-30,West,Electronics,SMB,False,7,405.22,2836.54,False
+422,2025-09-30,South,Apparel,Enterprise,False,4,376.59,1242.747,True
+278,2025-09-30,West,Furniture,SMB,True,3,292.49,877.47,False

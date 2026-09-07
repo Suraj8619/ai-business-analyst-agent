@@ -1,0 +1,13 @@
+# Pinned to versions this project was built and tested against.
+# langchain-community is sunset (no more fixes) but still the current
+# home for SQLDatabase/SQLDatabaseToolkit -- no successor package exists yet.
+langchain==1.3.18
+langchain-core==1.6.1
+langchain-groq==1.1.3
+langchain-community==0.4.2
+pandas==3.0.2
+numpy==2.4.4
+plotly==7.0.0
+streamlit==1.62.0
+python-dotenv==1.2.2
+pydantic==2.13.5
